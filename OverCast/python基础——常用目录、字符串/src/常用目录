@@ -1,0 +1,26 @@
+python常用目录：
+DLLS
+Doc 存放python手册
+include
+Lib 存放当前版本的所有模块
+libs
+Scripts 默认python没有该文件夹，完成python安装后会部署easy_install和pip两个工具，变回生成该文件夹，该目录主要存放模块的环境变量
+tcl
+Tools
+
+Lib/site-package    存放所有第三方模块
+
+常用文件
+python.exe  python脚本的环境变量
+pythonw.exe python图形脚本的环境变量
+
+python脚本：
+.py 脚本
+.pyc    临时文件
+.pyw    图形化文件
+
+Linux环境下的python脚本设置：
+脚本第一行：
+#! usr/bin/python 支出环境变量
+第二行：
+#coding utf-8 或者 $coding gbk 声明字符串
