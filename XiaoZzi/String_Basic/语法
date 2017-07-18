@@ -1,0 +1,52 @@
+三引号：带格式保存字符串
+索引：前向从0开始，反向从-1开始
+切片：[start:finish:countBy]空格也占位
+      左开右闭，按照start和finish的索引（正数左边从0，负数右边从-1），确定子串
+      根据countBy绝对值确定间距，根据正负判断正向逆向
+更改：replace(old,new),生成一个新的子串
+查找：find,找到要查找的字符串，返回第一个字母的索引，如果没有返回-1
+切分：split(str,num),默认以空格为分割
+      从做到右，每遇到分隔符进行一次分割，进行num次分割
+
+upper()--所有字母大写
+lower()--所有字母小写
+capitalize()--首字母大写，其它字母小写
+title()--所有单词首字母大写，其它小写
+
+
+s为字符串
+s.isalnum() 所有字符都是数字或者字母
+s.isalpha() 所有字符都是字母
+s.isdigit() 所有字符都是数字
+s.islower() 所有字符都是小写
+s.isupper() 所有字符都是大写
+s.istitle() 所有单词都是首字母大写，像标题
+s.isspace() 所有字符都是空白字符、\t、\n、\r
+
+字符串比较：
+字典序（Directionary order）
+首先比较两个字符串的第一个字符
+如果相同，则比较下一个字符
+如果不同，则字符串大小关系由这两个字符关系（ASCII）决定
+如果其中一个字符为空（较短），则其更小
+
+字符串格式化（Formatting）
+输出更规格的结果，如：
+>>> print "Hello {} good {}.".format(5,'DAY')
+Hello 5 good DAY.
+括号的格式{field name:align width.precision type}
+>>> 'PI is {:.4f}'.format(math.pi)
+'PI is 3.1416'
+>>> 'PI is {:9.4f}'.format(math.pi)
+'PI is    3.1416'
+>>> 'PI is {:<9.4f}'.format(math.pi)
+'PI is 3.1416   '
+
+正则表达式（Regular Expression）
+.表示任意字符
+\d+表示一系列数字
+[a-z]表示一个小写字母
+参考：http://docs.python.org/2/library/re.html
+
+更多字符串方法：dir(str)
+                https://docs.python.org/2/tutorial
