@@ -1,0 +1,78 @@
+list[]
+append() 总是把新的元素添加到list的尾部
+insert() 接收两个参数，第一个参数是索引号，第二个参数是待添加的新元素
+pop() 默认删除最后一个元素，也可以接收一个参数，索引号
+修改：直接根据所以赋值
+
+tuple()
+没有append，insert pop，也不能修改，不可改变
+t = (1,)  创建一个只有一个元素的tuple
+t = (1) 创建一个tuple，里面有1这个元素
+t = (1, 2, 3,) 多元素加不加逗号效果一样
+t = ('a', 'b', ['A', 'B'])  tuple一开始指向的list并没有改成别的list，所以，tuple所谓的“不变”是说，
+                            tuple的每个元素，指向永远不变。即指向'a'，就不能改成指向'b'，指向一个list，
+                            就不能改成指向其他对象，但指向的这个list本身是可变的
+t = ('a', 'b', ('A', 'B'))  t[2][0]不可改变，t不可改变
+
+dict{}
+dict{key:value,key:value}    可以简单通过d[key]的形式来查找对应的value
+判断key是否存在，用in操作符，或者dict本身提供的get方法，在key存在时返回value，不存在时返回None
+dict特点：
+1.查找速度快，无论有10个还是10万个元素，查找的速度都是一样，而list的查找速度随着元素增加而下降
+2.占用内存大，会浪费很多内容，list正好相反，占用内存小，但是查找速度慢
+3.按照key查找，所以，在一个dict中，key不能重复
+4.存储的key-value序对是没有顺序的，和list不一样，不同机器打印的顺序都可能不同，不能用dict存储有序的集合
+5.dict的第三个特点是作为 key 的元素必须不可变，Python的基本类型如字符串、整数、浮点数都是不可变的，
+  都可以作为 key。但是list是可变的，就不能作为 key。
+更新dict:
+d[key] = 72
+删除：
+要删除一个key，用pop(key)方法，对应的value也会从dict中删除
+循环遍历：
+for key,v in d.items():
+    print key,':',v
+
+set([])
+set 持有一系列元素,无序的，不可重复的
+>>> s = set(['A', 'B', 'C', 'C'])
+>>> print s
+set(['A', 'C', 'B'])
+添加：s.add(),如果已经存在，add()不会报错，但是不会加进去
+删除：s.remove（）,如果不存在会报错
+
+关于list的zip()函数
+zip()函数可以将两个list转变为一个list
+>>> zip([10,20,30],['A','B','C'])
+[(10, 'A'), (20, 'B'), (30, 'C')]
+
+另外，关于dict迭代value，values()和迭代itervalues() 方法
+dict 对象有一个 values() 方法，这个方法把dict转换成一个包含所有value的list
+如果仔细阅读Python的文档，还可以发现，dict除了values()方法外，还有一个 itervalues() 方法，
+                          用 itervalues() 方法替代 values() 方法，迭代效果完全一样
+那这两个方法有何不同之处呢？
+1. values() 方法实际上把一个 dict 转换成了包含 value 的list
+2. 但是 itervalues() 方法不会转换，它会在迭代过程中依次从 dict 中取出 value，
+   所以 itervalues() 方法比 values() 方法节省了生成 list 所需的内存
+d = { 'Adam': 95, 'Lisa': 85, 'Bart': 59 }
+print d.itervalues()
+<dictionary-valueiterator object at 0x106adbb50>
+for v in d.itervalues():
+    print v
+print d.values()
+85
+95
+59
+[85, 95, 59]
+
+关于dict迭代key和value，items()和迭代iteritems()
+iteritems() 不把dict转换成list，而是在迭代过程中不断给出 tuple，所以， iteritems() 不占用额外的内存
+d = { 'Adam': 95, 'Lisa': 85, 'Bart': 59 }
+print d.items()
+print d.iteritems()
+for x in d.iteritems():
+    print x[0],':',x[1]
+[('Lisa', 85), ('Adam', 95), ('Bart', 59)]
+<dictionary-itemiterator object at 0x000000000261BF48>
+Lisa : 85
+Adam : 95
+Bart : 59
