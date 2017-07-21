@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 """
-暂停一秒输出
+暂停三秒输出
 """
 
 import time
