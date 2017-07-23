@@ -1,0 +1,11 @@
+视图模式：\主要特征是与字典保持同步，在Python基础部分不做深入研究
+viewitems
+viewkeys
+viewvalues
+
+迭代模式：
+在Python2.4版本之后，为了提高Python运行效率，Python提出了迭代器、生成器、装饰器的定义，而字典的的迭代模式正是去用了迭代器原理.
+当我们直接调用的时候，我们只能得到一个内存地址，但我们具体想要取值的时候，我们需要借助next方法
+ieritems
+iterkeys
+itervalues

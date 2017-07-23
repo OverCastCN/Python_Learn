@@ -3,7 +3,7 @@
 切片：[start:finish:countBy]空格也占位
       左开右闭，按照start和finish的索引（正数左边从0，负数右边从-1），确定子串
       根据countBy绝对值确定间距，根据正负判断正向逆向
-更改：replace(old,new),生成一个新的子串
+更改：replace(old,new),生成一个新的字符串
 查找：find,找到要查找的字符串，返回第一个字母的索引，如果没有返回-1
 切分：split(str,num),默认以空格为分割
       从做到右，每遇到分隔符进行一次分割，进行num次分割
