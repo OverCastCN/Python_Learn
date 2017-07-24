@@ -15,6 +15,7 @@ mode:打开方式，默认只读'r'
     5.'w+'可读可写 如果文件存在 则覆盖整个文件不存在则创建----好像读不到啊！
     6.'a+'追加和读写方式打开， 可读可写 从文件顶部读取内容 从文件底部添加内容 不存在则创建
        ----读写一起进行也是会报错滴！！！
+       ‘rb’ ‘wb’ ‘ab’ ‘rb+’ ‘wb+’ ‘ab+’ ：二进制方式打开
     注意：
     r+为可读写两种操作    w+为可读写两种操作（会首先自动清空文件内容）     a+为追加读写两种操作
 【注意以上三种操作方式均不可同时进行读写操作（仅测验windows情况下）】
@@ -31,13 +32,38 @@ buf：缓冲buffering的大小
 文件读取方式：
     1.read([size]):读取文件，读取size个字节，默认读取全部
     2.readline([siza]):读取一行
-    3.readlines([size]):读取文件，返回每一行所组成的列表，读大文件很占内存
+    3.readlines([size]):读取缓冲buffer左右个字节而不是全部文件内容，返回每一行所组成的列表，读大文件很占内存
+    4.iter:使用迭代器在不使用大量内存的情况下遍历整个文件,
+【注意】readlines的size和read以及readline的size不一样，它关系到python中定义的sizeint,而不是字节
+ 需要引入io模块，使用io.DEFAULT_BUFFER_SIZE查看所占字节,它占8192个字节
+【注意】参数在1~DEFAULT_BUFFER_SIZE（2^13=8192）返回的结果是一样的，都是返回一个DEFAULT_BUFFER_SIZE左右大小；
+但是8193就不一样了，他在DEFAULT_BUFFER_SIZE~2*DEFAULT_BUFFER_SIZE之间，返回2个DEFAULT_BUFFER_SIZE左右大小；
+
 文件写入方式：
     1.write(str):将字符串写入文件
-    2.writelines(sequence_of_strings):写多行到文件，sequence_of_strings为字符串组成的列表
+    2.writelines(sequence_of_strings):写多行到文件，sequence_of_strings为可迭代strings
+【注意】Linux写缓存时机：
+1.主动调用close()或者flush()方法，写缓存同步到磁盘
+2.写入数据量大于或者等于写缓存，写缓存同步到磁盘
 
-四、文件指针
+四、python文件为什么要关闭
+1.将写缓存同步到磁盘
+2.linux系统中每个进程打开文件的个数是有限的
+3.如果打开文件数到了系统限制，再打开文件就会失败
+fileno,当前打开文件的个数
 
+五、文件指针
+python文件指针操作：
+seek(offset[,whence]):移动文件指针
+    offset:偏移量，可以为负数
+    whence:偏移相对位置
+python文件指针定位方式：
+os.SEEK_SET:相对文件起始位置 0
+os.SEEK_CUR:相对文件当前位置 1
+os.SEEK_END:相对文件结尾位置 2
+f.seek(0,os.SEEK_SET),移动指针到开头
+f.seek(0,os.SEEK_END),移动指针到结尾
+f.seek(-5,os.SEEK_CUR),相对当前指针的index，(index-5,index]
 
 
 五、文件对象属性
