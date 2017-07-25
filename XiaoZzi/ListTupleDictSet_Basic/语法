@@ -1,8 +1,21 @@
 list[]
+列表时一种内建（built-in）数据结构（data structure）,用来存储一系列元素（items）
 append() 总是把新的元素添加到list的尾部
 insert() 接收两个参数，第一个参数是索引号，第二个参数是待添加的新元素
-pop() 默认删除最后一个元素，也可以接收一个参数，索引号
-修改：直接根据所以赋值
+pop() 默认删除最后一个元素，也可以接收一个参数(索引)
+remove() 删除元素，接收一个参数（内容）
+sort() 排序
+reverse() 逆序
+extend(['def','hhh])  在列表后面追加一个列表
+修改：直接根据索引赋值
+【注意】
+列表赋值：b = a,变量b也指向a的地址；b = a[:],重新生成和a一样的列表，将列表的地址赋给b
+a = [1,2,3,4]
+b = a
+b[1] = 100
+print a[1]
+
+更多文档：http://docs.python.org/2/tutorial/datastructures.html#more-on-lists
 
 tuple()
 没有append，insert pop，也不能修改，不可改变
