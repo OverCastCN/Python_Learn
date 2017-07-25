@@ -53,6 +53,7 @@ buf：缓冲buffering的大小
 fileno,当前打开文件的个数
 
 五、文件指针
+tell()  判断当前指针所在位置
 python文件指针操作：
 seek(offset[,whence]):移动文件指针
     offset:偏移量，可以为负数
@@ -66,11 +67,54 @@ f.seek(0,os.SEEK_END),移动指针到结尾
 f.seek(-5,os.SEEK_CUR),相对当前指针的index，(index-5,index]
 
 
-五、文件对象属性
+六、文件对象属性
+文件对象属性：
+file.fileno():文件描述符
+file.mode：文件打开权限
+file.encoding:文件编码格式
+file/closed:文件是否关闭
 
+标准文件
+文件标准输入：sys.stdin   文件描述符0
+文件标准输出：sys.stdout  文件描述符0
+文件标准错误：sys.stderr  文件描述符0
 
+文件命令行参数
+另外，sys模块提供sys.argv属性，通过该属性可以得到命令行参数(字符串组成的列表)
 
-六、linux文件系统
-
+文件编码格式
+如何创建一个utf-8或者其他编码格式的文件
+使用codecs模块提供方法创建指定编码格式文件
+open(fname,mode,encoding,errors,buffering)
+f3 = codecs.open('PracticeFile','w','utf-8')
 
 七、OS模块文件操作
+使用os模块打开文件：os.open(filename,flag[,model])
+flag:打开文件方式
+os.O_CREAT:创建文件
+os.O_RDONLY:只读方式打开
+os.O_WRONLY:只写方式打开
+os.O_RDWR:读写方式打开
+
+使用OS模块对文件进行操作：
+os.read(fd,buffersize)/;读取文件
+os.write(fd,string)：写入文件
+os.lseek(fd,pos,how)：文件指针操作
+os.close(fd)：关闭文件
+
+os模块方法介绍
+access(path,mode):判断该文件权限：F_OK存在 R_OK可读 W_OK可写 X_OK可执行
+listdir(path)：返回当前目录下所有文件组成的列表
+remove(path)：删除文件
+rename(old,new)：修改文件或者目录名
+mkdir(path[,mode])：创建目录
+makedirs(path[,model])：创建多级目录
+removedirs(path)：删除多级目录
+rmdir(path)：删除目录（目录必须空目录）
+os.path方法：
+exists(path)：当前路径是否存在
+isdir(s)：是否是一个目录
+isfile(path)：是否是一个文件
+getsize(filename)：返回文件大小
+dirname(p)：返回路径的目录
+basename(p)：返回路径的文件名
