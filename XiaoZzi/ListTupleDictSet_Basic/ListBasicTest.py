@@ -44,8 +44,29 @@ for x in d.iteritems():
 """
 列表赋值
 """
-a = [1,2,3,4]
+a = [0,1,2,3,4,5,6]
 b = a
 # b = a[:]
-b[1] = 100
+# b[1] = 100
 print a[1]
+
+def search(lst,i):
+    for a in range(len(lst)):
+        if lst[a] == i:
+            return a
+        else:
+            return -1
+
+def bi_search(lst,i):
+    min = 0
+    max = len(lst) -1
+    while min <= max:
+        mid = (min + max)/2
+        if i == lst[mid]:
+            return mid
+        elif i > lst[mid]:
+            min = mid + 1
+        else:
+            max = mid - 1
+    return -1
+print bi_search(a,1)
