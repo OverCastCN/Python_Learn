@@ -3,6 +3,8 @@
  使用http://www.pythontutor.com/可以查看代码的执行过程
 """
 lst = [1,2.3]
+for i in lst:
+    print i
 lst.extend([4,5,6])
 print lst
 l = [1,2,3]
