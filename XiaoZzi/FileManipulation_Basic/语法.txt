@@ -15,7 +15,17 @@ mode:打开方式，默认只读'r'
     5.'w+'可读可写 如果文件存在 则覆盖整个文件不存在则创建----好像读不到啊！
     6.'a+'追加和读写方式打开， 可读可写 从文件顶部读取内容 从文件底部添加内容 不存在则创建
        ----读写一起进行也是会报错滴！！！
+       【注意】前面讲的默认都是读取文本文件，并且是ASCII编码的文本文件。要读取二进制文件，比如图片、视频等等，用'rb'模式打开文件即可：
        ‘rb’ ‘wb’ ‘ab’ ‘rb+’ ‘wb+’ ‘ab+’ ：二进制方式打开
+       【注意】要读取非ASCII编码的文本文件，就必须以二进制模式打开，再解码。比如GBK编码的文件：
+        >>> f = open('/Users/michael/gbk.txt', 'rb')
+        >>> u = f.read().decode('gbk')
+        如果每次都这么手动转换编码嫌麻烦（写程序怕麻烦是好事，不怕麻烦就会写出又长又难懂又没法维护的代码），
+        Python还提供了一个codecs模块帮我们在读文件时自动转换编码，直接读出unicode：
+        import codecs
+        with codecs.open('/Users/michael/gbk.txt', 'r', 'gbk') as f:
+            f.read() # u'\u6d4b\u8bd5'
+
     注意：
     r+为可读写两种操作    w+为可读写两种操作（会首先自动清空文件内容）     a+为追加读写两种操作
 【注意以上三种操作方式均不可同时进行读写操作（仅测验windows情况下）】
@@ -27,6 +37,17 @@ buf：缓冲buffering的大小
 【注意】
 在读写交替过程中必须要有fflush, fseek, fsetpos, rewind这类操作，不然python就不知道当前文件位置在哪啦。
 最笨的办法就是在关闭文件前只做读或者写一种操作，省心
+【注意】由于文件读写时都有可能产生IOError，一旦出错，后面的f.close()就不会调用。
+所以，为了保证无论是否出错都能正确地关闭文件，我们可以使用try ... finally来实现：
+try:
+    f = open('/path/to/file', 'r')
+    print f.read()
+finally:
+    if f:
+        f.close()
+但是每次都这么写实在太繁琐，所以，Python引入了with语句来自动帮我们调用close()方法：
+with open('/path/to/file', 'r') as f:
+    print f.read()
 
 三、文件读写操作
 文件读取方式：
