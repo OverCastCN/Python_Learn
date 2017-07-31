@@ -22,5 +22,5 @@ def fun(path):
             else:
                 fun(d_files)
 
-path = u'D:\\My Work\\直播测试'
+path = u'F:\\My Study\\性能测试Loadrunner'
 fun(path)

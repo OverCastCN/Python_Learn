@@ -6,8 +6,8 @@ import hashlib
 import os
 import shutil
 
-l = []
-def getdir_md5(dirpath,md5path):  #目录地址，MD5文件地址，拷贝文件到哪个地址
+
+def getdir_md5(dirpath,b,p):  #目录地址，MD5文件地址，拷贝文件到哪个地址
     for d_file in os.listdir(dirpath):
         d_file = os.path.join(dirpath,d_file)
         if os.path.isfile(d_file):
@@ -17,26 +17,20 @@ def getdir_md5(dirpath,md5path):  #目录地址，MD5文件地址，拷贝文件
                 m1.update(m.read())
                 h = m1.hexdigest()   #求出目录地址里文件的MD5值
                 # print 'strh',str(h)
-                for i in getmd5_list(md5path): #遍历给出的md5的列表
-                    # print 'i',i
+                # for i in range(len(lst)): #遍历给出的md5的列表
+                for i in getmd5_list(b):
+                    # print 'i',lst[i]
                     if str(h) == i:  #判断与求出的目录中的文件的md5值是否相等
                         print 'equal',i
                         print d_file
                         l.append(d_file)
                         print len(l)
+                        shutil.copy(d_file,p)   #如果相等，copy到targetpath
                         break
-                        # shutil.copy(d_file,targetpath)   #如果相等，copy到targetpath
-                        # print str(h)
-                        # print 'd_file:',d_file
-                        # print 'targetpath',targetpath
-                        # pass
                 m.close()
 
         if os.path.isdir(d_file):
-            getdir_md5(d_file,md5path)   #如果是子目录，需要递归
-    # print l
-
-    return l
+            getdir_md5(d_file,b,p)   #如果是子目录，需要递归
 
 def getmd5_list(md5path):   #得到md5文件中的md5,返回MD5组成的列表
     lst = []
@@ -45,16 +39,13 @@ def getmd5_list(md5path):   #得到md5文件中的md5,返回MD5组成的列表
     for i in range(len(a)):
         lst.append(a[i].strip())
     f.close()
-    # print lst
+    print lst
     return lst
 
-
-a = u'D:\\My Work\\直播测试'
+a = u'F:\\My Study\\性能测试Loadrunner'
 b = 'Rmd5.txt'
-c = u'D:\\My Work\\直播测试\\md5'
-
-getdir_md5(a,b)
-for i in getdir_md5(a,b):
-    # shutil.copy(i,c)
-    pass
-
+c = u'F:\md5'
+l = []
+# lst = []
+# getmd5_list(b)
+getdir_md5(a,b,c)
