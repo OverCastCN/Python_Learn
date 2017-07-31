@@ -1,332 +1,332 @@
-<md5 HASH object @ 000000000272C850>:D:\My Work\直播测试\H5直播客户端测试用例20161218.xlsx
-<md5 HASH object @ 000000000272C940>:D:\My Work\直播测试\QQ截图20170222114742.png
-<md5 HASH object @ 000000000272C990>:D:\My Work\直播测试\修改文件\iALMFCC.exe
-<md5 HASH object @ 000000000272C850>:D:\My Work\直播测试\修改文件\libvlc.dll
-<md5 HASH object @ 000000000272C990>:D:\My Work\直播测试\修改文件\libvlccore.dll
-<md5 HASH object @ 000000000272C850>:D:\My Work\直播测试\修改文件\plugins\access\libaccess_bd_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\access\libaccess_mms_plugin.dll
-<md5 HASH object @ 000000000272C850>:D:\My Work\直播测试\修改文件\plugins\access\libaccess_realrtsp_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\access\libattachment_plugin.dll
-<md5 HASH object @ 000000000272C850>:D:\My Work\直播测试\修改文件\plugins\access\libbluray-j2se-0.9.3.jar
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\access\libcdda_plugin.dll
-<md5 HASH object @ 000000000272C850>:D:\My Work\直播测试\修改文件\plugins\access\libdshow_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\access\libdtv_plugin.dll
-<md5 HASH object @ 000000000272C850>:D:\My Work\直播测试\修改文件\plugins\access\libdvdnav_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\access\libdvdread_plugin.dll
-<md5 HASH object @ 000000000272C850>:D:\My Work\直播测试\修改文件\plugins\access\libfilesystem_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\access\libftp_plugin.dll
-<md5 HASH object @ 000000000272C850>:D:\My Work\直播测试\修改文件\plugins\access\libhttp_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\access\libidummy_plugin.dll
-<md5 HASH object @ 000000000272C850>:D:\My Work\直播测试\修改文件\plugins\access\libimem_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\access\liblibbluray_plugin.dll
-<md5 HASH object @ 000000000272C850>:D:\My Work\直播测试\修改文件\plugins\access\liblive555_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\access\librar_plugin.dll
-<md5 HASH object @ 000000000272C850>:D:\My Work\直播测试\修改文件\plugins\access\librtp_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\access\libscreen_plugin.dll
-<md5 HASH object @ 000000000272C850>:D:\My Work\直播测试\修改文件\plugins\access\libsdp_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\access\libsftp_plugin.dll
-<md5 HASH object @ 000000000272C850>:D:\My Work\直播测试\修改文件\plugins\access\libshm_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\access\libsmb_plugin.dll
-<md5 HASH object @ 000000000272C850>:D:\My Work\直播测试\修改文件\plugins\access\libtcp_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\access\libtimecode_plugin.dll
-<md5 HASH object @ 000000000272C850>:D:\My Work\直播测试\修改文件\plugins\access\libudp_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\access\libvcd_plugin.dll
-<md5 HASH object @ 000000000272C850>:D:\My Work\直播测试\修改文件\plugins\access\libvdr_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\access\libzip_plugin.dll
-<md5 HASH object @ 000000000272C850>:D:\My Work\直播测试\修改文件\plugins\access_output\libaccess_output_dummy_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\access_output\libaccess_output_file_plugin.dll
-<md5 HASH object @ 000000000272C850>:D:\My Work\直播测试\修改文件\plugins\access_output\libaccess_output_http_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\access_output\libaccess_output_livehttp_plugin.dll
-<md5 HASH object @ 000000000272C850>:D:\My Work\直播测试\修改文件\plugins\access_output\libaccess_output_shout_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\access_output\libaccess_output_udp_plugin.dll
-<md5 HASH object @ 000000000272C850>:D:\My Work\直播测试\修改文件\plugins\audio_filter\liba52tofloat32_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\audio_filter\liba52tospdif_plugin.dll
-<md5 HASH object @ 000000000272C850>:D:\My Work\直播测试\修改文件\plugins\audio_filter\libaudiobargraph_a_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\audio_filter\libaudio_format_plugin.dll
-<md5 HASH object @ 000000000272C850>:D:\My Work\直播测试\修改文件\plugins\audio_filter\libchorus_flanger_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\audio_filter\libcompressor_plugin.dll
-<md5 HASH object @ 000000000272C850>:D:\My Work\直播测试\修改文件\plugins\audio_filter\libdolby_surround_decoder_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\audio_filter\libdtstofloat32_plugin.dll
-<md5 HASH object @ 000000000272C850>:D:\My Work\直播测试\修改文件\plugins\audio_filter\libdtstospdif_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\audio_filter\libequalizer_plugin.dll
-<md5 HASH object @ 000000000272C850>:D:\My Work\直播测试\修改文件\plugins\audio_filter\libgain_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\audio_filter\libheadphone_channel_mixer_plugin.dll
-<md5 HASH object @ 000000000272C850>:D:\My Work\直播测试\修改文件\plugins\audio_filter\libkaraoke_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\audio_filter\libmono_plugin.dll
-<md5 HASH object @ 000000000272C850>:D:\My Work\直播测试\修改文件\plugins\audio_filter\libmpgatofixed32_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\audio_filter\libnormvol_plugin.dll
-<md5 HASH object @ 000000000272C850>:D:\My Work\直播测试\修改文件\plugins\audio_filter\libparam_eq_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\audio_filter\libremap_plugin.dll
-<md5 HASH object @ 000000000272C850>:D:\My Work\直播测试\修改文件\plugins\audio_filter\libsamplerate_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\audio_filter\libscaletempo_plugin.dll
-<md5 HASH object @ 000000000272C850>:D:\My Work\直播测试\修改文件\plugins\audio_filter\libsimple_channel_mixer_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\audio_filter\libspatializer_plugin.dll
-<md5 HASH object @ 000000000272C850>:D:\My Work\直播测试\修改文件\plugins\audio_filter\libspeex_resampler_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\audio_filter\libstereo_widen_plugin.dll
-<md5 HASH object @ 000000000272C850>:D:\My Work\直播测试\修改文件\plugins\audio_filter\libtrivial_channel_mixer_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\audio_filter\libugly_resampler_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\audio_mixer\libfloat_mixer_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\audio_mixer\libinteger_mixer_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\audio_output\libadummy_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\audio_output\libafile_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\audio_output\libamem_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\audio_output\libdirectsound_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\audio_output\libmmdevice_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\audio_output\libwasapi_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\audio_output\libwaveout_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\codec\liba52_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\codec\libadpcm_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\codec\libaes3_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\codec\libaraw_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\codec\libavcodec_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\codec\libcc_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\codec\libcdg_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\codec\libcrystalhd_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\codec\libcvdsub_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\codec\libddummy_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\codec\libdmo_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\codec\libdts_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\codec\libdvbsub_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\codec\libdxva2_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\codec\libedummy_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\codec\libfaad_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\codec\libflac_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\codec\libg711_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\codec\libjpeg_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\codec\libkate_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\codec\liblibass_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\codec\liblibmpeg2_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\codec\liblpcm_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\codec\libmft_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\codec\libmpeg_audio_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\codec\libopus_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\codec\libpng_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\codec\libqsv_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\codec\libquicktime_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\codec\librawvideo_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\codec\libschroedinger_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\codec\libscte27_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\codec\libspeex_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\codec\libspudec_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\codec\libstl_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\codec\libsubsdec_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\codec\libsubstx3g_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\codec\libsubsusf_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\codec\libsvcdsub_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\codec\libt140_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\codec\libtheora_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\codec\libtwolame_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\codec\libuleaddvaudio_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\codec\libvorbis_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\codec\libvpx_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\codec\libx264_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\codec\libx265_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\codec\libzvbi_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\control\libdummy_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\control\libgestures_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\control\libhotkeys_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\control\libnetsync_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\control\libntservice_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\control\liboldrc_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\control\libwin_hotkeys_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\control\libwin_msg_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\demux\libaiff_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\demux\libasf_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\demux\libau_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\demux\libavi_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\demux\libcaf_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\demux\libdemuxdump_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\demux\libdemux_cdg_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\demux\libdemux_stl_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\demux\libdiracsys_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\demux\libes_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\demux\libflacsys_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\demux\libgme_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\demux\libh264_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\demux\libhevc_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\demux\libimage_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\demux\libmjpeg_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\demux\libmkv_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\demux\libmod_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\demux\libmp4_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\demux\libmpc_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\demux\libmpgv_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\demux\libnsc_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\demux\libnsv_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\demux\libnuv_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\demux\libogg_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\demux\libplaylist_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\demux\libps_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\demux\libpva_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\demux\librawaud_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\demux\librawdv_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\demux\librawvid_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\demux\libreal_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\demux\libsid_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\demux\libsmf_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\demux\libsubtitle_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\demux\libts_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\demux\libtta_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\demux\libty_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\demux\libvc1_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\demux\libvobsub_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\demux\libvoc_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\demux\libwav_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\demux\libxa_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\gui\libqt4_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\gui\libskins2_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\lua\liblua_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\meta_engine\libfolder_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\meta_engine\libtaglib_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\misc\libaddonsfsstorage_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\misc\libaddonsvorepository_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\misc\libaudioscrobbler_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\misc\libexport_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\misc\libfingerprinter_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\misc\libgnutls_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\misc\liblogger_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\misc\libstats_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\misc\libvod_rtsp_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\misc\libxml_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\mux\libmux_asf_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\mux\libmux_avi_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\mux\libmux_dummy_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\mux\libmux_mp4_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\mux\libmux_mpjpeg_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\mux\libmux_ogg_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\mux\libmux_ps_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\mux\libmux_ts_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\mux\libmux_wav_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\packetizer\libpacketizer_copy_plugin.dll
-<md5 HASH object @ 000000000272C850>:D:\My Work\直播测试\修改文件\plugins\packetizer\libpacketizer_dirac_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\packetizer\libpacketizer_flac_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\packetizer\libpacketizer_h264_plugin.dll
-<md5 HASH object @ 000000000272C850>:D:\My Work\直播测试\修改文件\plugins\packetizer\libpacketizer_hevc_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\packetizer\libpacketizer_mlp_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\packetizer\libpacketizer_mpeg4audio_plugin.dll
-<md5 HASH object @ 000000000272C850>:D:\My Work\直播测试\修改文件\plugins\packetizer\libpacketizer_mpeg4video_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\packetizer\libpacketizer_mpegvideo_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\packetizer\libpacketizer_vc1_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins\plugins.dat
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\services_discovery\libmediadirs_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\services_discovery\libpodcast_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\services_discovery\libsap_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\services_discovery\libupnp_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\services_discovery\libwindrive_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\stream_filter\libdash_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\stream_filter\libhttplive_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\stream_filter\librecord_plugin.dll
-<md5 HASH object @ 000000000272CA30>:D:\My Work\直播测试\修改文件\plugins\stream_filter\libsmooth_plugin.dll
-<md5 HASH object @ 000000000272CBC0>:D:\My Work\直播测试\修改文件\plugins\stream_out\libstream_out_autodel_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\stream_out\libstream_out_bridge_plugin.dll
-<md5 HASH object @ 000000000272CB70>:D:\My Work\直播测试\修改文件\plugins\stream_out\libstream_out_chromaprint_plugin.dll
-<md5 HASH object @ 000000000272CBC0>:D:\My Work\直播测试\修改文件\plugins\stream_out\libstream_out_delay_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\stream_out\libstream_out_description_plugin.dll
-<md5 HASH object @ 000000000272CB70>:D:\My Work\直播测试\修改文件\plugins\stream_out\libstream_out_display_plugin.dll
-<md5 HASH object @ 000000000272CBC0>:D:\My Work\直播测试\修改文件\plugins\stream_out\libstream_out_dummy_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\stream_out\libstream_out_duplicate_plugin.dll
-<md5 HASH object @ 000000000272CB70>:D:\My Work\直播测试\修改文件\plugins\stream_out\libstream_out_es_plugin.dll
-<md5 HASH object @ 000000000272CBC0>:D:\My Work\直播测试\修改文件\plugins\stream_out\libstream_out_gather_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\stream_out\libstream_out_langfromtelx_plugin.dll
-<md5 HASH object @ 000000000272CB70>:D:\My Work\直播测试\修改文件\plugins\stream_out\libstream_out_mosaic_bridge_plugin.dll
-<md5 HASH object @ 000000000272CBC0>:D:\My Work\直播测试\修改文件\plugins\stream_out\libstream_out_raop_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\stream_out\libstream_out_record_plugin.dll
-<md5 HASH object @ 000000000272CB70>:D:\My Work\直播测试\修改文件\plugins\stream_out\libstream_out_rtp_plugin.dll
-<md5 HASH object @ 000000000272CBC0>:D:\My Work\直播测试\修改文件\plugins\stream_out\libstream_out_setid_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\stream_out\libstream_out_smem_plugin.dll
-<md5 HASH object @ 000000000272CB70>:D:\My Work\直播测试\修改文件\plugins\stream_out\libstream_out_standard_plugin.dll
-<md5 HASH object @ 000000000272CBC0>:D:\My Work\直播测试\修改文件\plugins\stream_out\libstream_out_stats_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\stream_out\libstream_out_transcode_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\text_renderer\libfreetype_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\text_renderer\libtdummy_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\video_chroma\libchain_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\video_chroma\libgrey_yuv_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\video_chroma\libi420_rgb_mmx_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\video_chroma\libi420_rgb_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\video_chroma\libi420_rgb_sse2_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\video_chroma\libi420_yuy2_mmx_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\video_chroma\libi420_yuy2_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\video_chroma\libi420_yuy2_sse2_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\video_chroma\libi422_i420_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\video_chroma\libi422_yuy2_mmx_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\video_chroma\libi422_yuy2_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\video_chroma\libi422_yuy2_sse2_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\video_chroma\librv32_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\video_chroma\libswscale_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\video_chroma\libyuy2_i420_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\video_chroma\libyuy2_i422_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\video_filter\libadjust_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\video_filter\libalphamask_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\video_filter\libanaglyph_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\video_filter\libantiflicker_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\video_filter\libatmo_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\video_filter\libaudiobargraph_v_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\video_filter\libball_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\video_filter\libblendbench_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\video_filter\libblend_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\video_filter\libbluescreen_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\video_filter\libcanvas_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\video_filter\libcolorthres_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\video_filter\libcroppadd_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\video_filter\libdeinterlace_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\video_filter\liberase_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\video_filter\libextract_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\video_filter\libfreeze_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\video_filter\libgaussianblur_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\video_filter\libgradfun_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\video_filter\libgradient_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\video_filter\libgrain_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\video_filter\libhqdn3d_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\video_filter\libinvert_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\video_filter\liblogo_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\video_filter\libmagnify_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\video_filter\libmarq_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\video_filter\libmirror_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\video_filter\libmosaic_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\video_filter\libmotionblur_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\video_filter\libmotiondetect_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\video_filter\liboldmovie_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\video_filter\libposterize_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\video_filter\libpostproc_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\video_filter\libpsychedelic_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\video_filter\libpuzzle_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\video_filter\libremoteosd_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\video_filter\libripple_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\video_filter\librotate_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\video_filter\librss_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\video_filter\libscale_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\video_filter\libscene_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\video_filter\libsepia_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\video_filter\libsharpen_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\video_filter\libsubsdelay_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\video_filter\libtransform_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\video_filter\libvhs_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\video_filter\libwave_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\video_filter\libyuvp_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\video_output\libcaca_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\video_output\libdirect2d_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\video_output\libdirect3d_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\video_output\libdirectdraw_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\video_output\libdrawable_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\video_output\libglwin32_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\video_output\libgl_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\video_output\libvdummy_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\video_output\libvmem_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\video_output\libwingdi_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\video_output\libyuv_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\video_splitter\libclone_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\video_splitter\libpanoramix_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\video_splitter\libwall_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\visualization\libglspectrum_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\visualization\libgoom_plugin.dll
-<md5 HASH object @ 000000000272CC10>:D:\My Work\直播测试\修改文件\plugins\visualization\libprojectm_plugin.dll
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\修改文件\plugins\visualization\libvisual_plugin.dll
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\修改文件\plugins.rar
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\直播客户端目录结构说明.txt
-<md5 HASH object @ 000000000272C940>:D:\My Work\直播测试\直播服务器FAQ.txt
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\直播测试buglist2016.1.5.xlsx
-<md5 HASH object @ 000000000272C940>:D:\My Work\直播测试\直播设置说明.txt
-<md5 HASH object @ 000000000272C9E0>:D:\My Work\直播测试\直播需要的插件\dotNetFx40_Client_x86_x64.exe
-<md5 HASH object @ 000000000272C990>:D:\My Work\直播测试\直播需要的插件\dxwebsetup.exe
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\直播需要的插件\vcredist_x86.exe
-<md5 HASH object @ 000000000272CA80>:D:\My Work\直播测试\网动直播客户端使用手册1013.doc
+6b717974701d5ccab2aec59518febf34:D:\My Work\直播测试\H5直播客户端测试用例20161218.xlsx
+d407fdb031c1653c9d4d56604b9e12b9:D:\My Work\直播测试\QQ截图20170222114742.png
+68a9b45b982cab1475d7e7def5d7ae1e:D:\My Work\直播测试\修改文件\iALMFCC.exe
+2b2de2144f78647e7697d81db22b2d5c:D:\My Work\直播测试\修改文件\libvlc.dll
+045f769819e8c9f375bfc5bac51e3530:D:\My Work\直播测试\修改文件\libvlccore.dll
+a9fe7fa41fb868eb2e4d508e3cf63df4:D:\My Work\直播测试\修改文件\plugins\access\libaccess_bd_plugin.dll
+d08b08034811e9efd8178b79beb12110:D:\My Work\直播测试\修改文件\plugins\access\libaccess_mms_plugin.dll
+5afbcc9013bb62ea9a7e49a67f95308f:D:\My Work\直播测试\修改文件\plugins\access\libaccess_realrtsp_plugin.dll
+bdea6605b543e5ed7f399c65d1520fec:D:\My Work\直播测试\修改文件\plugins\access\libattachment_plugin.dll
+ed36570d0cddde1131eacf2ae2e7585f:D:\My Work\直播测试\修改文件\plugins\access\libbluray-j2se-0.9.3.jar
+d65d6e17a7d6d7b43f8b3fbaeb583654:D:\My Work\直播测试\修改文件\plugins\access\libcdda_plugin.dll
+81f1e65adc9e584ff4b56e96b81a14c5:D:\My Work\直播测试\修改文件\plugins\access\libdshow_plugin.dll
+9743f6c7b223e130436ae464e1e3525a:D:\My Work\直播测试\修改文件\plugins\access\libdtv_plugin.dll
+095772ca14ddf10068bcc7ff79313882:D:\My Work\直播测试\修改文件\plugins\access\libdvdnav_plugin.dll
+89cfe336d6ba4a2a426229742219baea:D:\My Work\直播测试\修改文件\plugins\access\libdvdread_plugin.dll
+2e46244a2968158abc4c339919b0f3a8:D:\My Work\直播测试\修改文件\plugins\access\libfilesystem_plugin.dll
+7067fc6600e0c90ac0432a38e7dca03a:D:\My Work\直播测试\修改文件\plugins\access\libftp_plugin.dll
+3908f5a924d03a79aa196211f22c1ba0:D:\My Work\直播测试\修改文件\plugins\access\libhttp_plugin.dll
+e77e854d1cb4b6e814f72919df3e64fc:D:\My Work\直播测试\修改文件\plugins\access\libidummy_plugin.dll
+58fa52ba0b64295c1bac8f305ddb8289:D:\My Work\直播测试\修改文件\plugins\access\libimem_plugin.dll
+352dfe204ee78f2428bb4d7c03f88de5:D:\My Work\直播测试\修改文件\plugins\access\liblibbluray_plugin.dll
+592f98243f074948f5f8a4c83e5bf7f6:D:\My Work\直播测试\修改文件\plugins\access\liblive555_plugin.dll
+71294b7e5ac830bcb629dbc0c377da01:D:\My Work\直播测试\修改文件\plugins\access\librar_plugin.dll
+73bdbd9de71e809bcd78619787fca33b:D:\My Work\直播测试\修改文件\plugins\access\librtp_plugin.dll
+9b33fff566e2a4a5cfd98a1b18360542:D:\My Work\直播测试\修改文件\plugins\access\libscreen_plugin.dll
+912b0034e6b3af5be6a7168636d04be8:D:\My Work\直播测试\修改文件\plugins\access\libsdp_plugin.dll
+bebfc121f65dcdd0ff2e4d37aa2387b0:D:\My Work\直播测试\修改文件\plugins\access\libsftp_plugin.dll
+f7e33d05de0658690f8c5d78c9f88918:D:\My Work\直播测试\修改文件\plugins\access\libshm_plugin.dll
+fe4e0bc77b56e0447339c7cce6f6acb5:D:\My Work\直播测试\修改文件\plugins\access\libsmb_plugin.dll
+014ba014fe82c356400d0af8a60f0f9f:D:\My Work\直播测试\修改文件\plugins\access\libtcp_plugin.dll
+7af532047ae7d143329113266966f419:D:\My Work\直播测试\修改文件\plugins\access\libtimecode_plugin.dll
+ee426476e4a0e8bb59ffa761f75d0954:D:\My Work\直播测试\修改文件\plugins\access\libudp_plugin.dll
+bcecdd61168e2bbaeaa9b552a14b7b35:D:\My Work\直播测试\修改文件\plugins\access\libvcd_plugin.dll
+0274215dbe24f9998aa381b130d7a1c3:D:\My Work\直播测试\修改文件\plugins\access\libvdr_plugin.dll
+27e9814baf83ec9c6132804bac9b339e:D:\My Work\直播测试\修改文件\plugins\access\libzip_plugin.dll
+c2eca79dd50b7fabc43b529e2ae1c1b8:D:\My Work\直播测试\修改文件\plugins\access_output\libaccess_output_dummy_plugin.dll
+40295e51589ade4eb366971b1a4bbe9f:D:\My Work\直播测试\修改文件\plugins\access_output\libaccess_output_file_plugin.dll
+c5acd0ecc8545208381a6cd20d16c014:D:\My Work\直播测试\修改文件\plugins\access_output\libaccess_output_http_plugin.dll
+cc399fb009fb6cffce7d2a94f337ab5b:D:\My Work\直播测试\修改文件\plugins\access_output\libaccess_output_livehttp_plugin.dll
+2ba7ff2dfd0e9e0a9f277978ba836e84:D:\My Work\直播测试\修改文件\plugins\access_output\libaccess_output_shout_plugin.dll
+3b0001e5b31efc142d0d6ad26d1dfc0b:D:\My Work\直播测试\修改文件\plugins\access_output\libaccess_output_udp_plugin.dll
+cfe7575c029866ef6075621773f55dfa:D:\My Work\直播测试\修改文件\plugins\audio_filter\liba52tofloat32_plugin.dll
+3eeb698bc5190dc099f221ddf33394df:D:\My Work\直播测试\修改文件\plugins\audio_filter\liba52tospdif_plugin.dll
+8bfda0a40fe625d2249d7f1e60953660:D:\My Work\直播测试\修改文件\plugins\audio_filter\libaudiobargraph_a_plugin.dll
+173677fb7966792f367270720a9e0b73:D:\My Work\直播测试\修改文件\plugins\audio_filter\libaudio_format_plugin.dll
+e3f12b640638083947397f62fed99314:D:\My Work\直播测试\修改文件\plugins\audio_filter\libchorus_flanger_plugin.dll
+a7dc78f2f9d3ef9b6b4ae9868c2f7c7e:D:\My Work\直播测试\修改文件\plugins\audio_filter\libcompressor_plugin.dll
+5474d4f9de7bfbf404c32ae646f4dc86:D:\My Work\直播测试\修改文件\plugins\audio_filter\libdolby_surround_decoder_plugin.dll
+c6d90fb65a104e6624c8158d343e9bd6:D:\My Work\直播测试\修改文件\plugins\audio_filter\libdtstofloat32_plugin.dll
+0d6d8e350468565913e68d3c4d6bc90f:D:\My Work\直播测试\修改文件\plugins\audio_filter\libdtstospdif_plugin.dll
+ce6d19ab968fc730d65e0aed9531f64d:D:\My Work\直播测试\修改文件\plugins\audio_filter\libequalizer_plugin.dll
+7bd488b4fe2a22a06fd4bf449b96c979:D:\My Work\直播测试\修改文件\plugins\audio_filter\libgain_plugin.dll
+0693981a060d87c88530a38925e6fc2c:D:\My Work\直播测试\修改文件\plugins\audio_filter\libheadphone_channel_mixer_plugin.dll
+92c17e92e504a5f2894742401d8e89a6:D:\My Work\直播测试\修改文件\plugins\audio_filter\libkaraoke_plugin.dll
+62a1f637f203390502c8d5d1814b3ef2:D:\My Work\直播测试\修改文件\plugins\audio_filter\libmono_plugin.dll
+153201c39cbec8bd5492689c671acf2a:D:\My Work\直播测试\修改文件\plugins\audio_filter\libmpgatofixed32_plugin.dll
+8d89364af777f5801df5379cbd26fdf4:D:\My Work\直播测试\修改文件\plugins\audio_filter\libnormvol_plugin.dll
+96955a1a5144a5a614d3807e7976f957:D:\My Work\直播测试\修改文件\plugins\audio_filter\libparam_eq_plugin.dll
+ba34f4f3d312dd95b633a1bdf83a4424:D:\My Work\直播测试\修改文件\plugins\audio_filter\libremap_plugin.dll
+f61da51eec6949a3d0c69d13d2a39389:D:\My Work\直播测试\修改文件\plugins\audio_filter\libsamplerate_plugin.dll
+075a5952e6ddfa207049bfe606feb684:D:\My Work\直播测试\修改文件\plugins\audio_filter\libscaletempo_plugin.dll
+36009df01f69570e11b97448c122b3fc:D:\My Work\直播测试\修改文件\plugins\audio_filter\libsimple_channel_mixer_plugin.dll
+600a7c2e7330ffa20b917a1745fd1d80:D:\My Work\直播测试\修改文件\plugins\audio_filter\libspatializer_plugin.dll
+8a6a24cb050e814dc52dd4933299c1bb:D:\My Work\直播测试\修改文件\plugins\audio_filter\libspeex_resampler_plugin.dll
+5f9593c3fc8133b9e4e1139447f03449:D:\My Work\直播测试\修改文件\plugins\audio_filter\libstereo_widen_plugin.dll
+332bcf69063901899df59edf2b43f066:D:\My Work\直播测试\修改文件\plugins\audio_filter\libtrivial_channel_mixer_plugin.dll
+fa4045692aa3be62d9836e8d2f34fe77:D:\My Work\直播测试\修改文件\plugins\audio_filter\libugly_resampler_plugin.dll
+1eadb7a388b0ec980c67777ebcfa8309:D:\My Work\直播测试\修改文件\plugins\audio_mixer\libfloat_mixer_plugin.dll
+e680a9e10a56685dac09f1803ad7bd19:D:\My Work\直播测试\修改文件\plugins\audio_mixer\libinteger_mixer_plugin.dll
+25c937489b11643ec9d035dce85aa4c5:D:\My Work\直播测试\修改文件\plugins\audio_output\libadummy_plugin.dll
+2738329da3f4163abe0d12991f874f23:D:\My Work\直播测试\修改文件\plugins\audio_output\libafile_plugin.dll
+dcec292945a58b523bf18cc832b81c7e:D:\My Work\直播测试\修改文件\plugins\audio_output\libamem_plugin.dll
+88ea84417a8c4153ddf9a7fa021d320c:D:\My Work\直播测试\修改文件\plugins\audio_output\libdirectsound_plugin.dll
+ffbd57ed0cc17d9ca3567a7b80d534d5:D:\My Work\直播测试\修改文件\plugins\audio_output\libmmdevice_plugin.dll
+ecfc8068ac5cde569fd2c593651f8656:D:\My Work\直播测试\修改文件\plugins\audio_output\libwasapi_plugin.dll
+103c51a1a784ab94d9ef7b7600dfa5f8:D:\My Work\直播测试\修改文件\plugins\audio_output\libwaveout_plugin.dll
+c8c240cedff8eb0895ea57555895b283:D:\My Work\直播测试\修改文件\plugins\codec\liba52_plugin.dll
+796778853ec9c6dfabc702b3700c6574:D:\My Work\直播测试\修改文件\plugins\codec\libadpcm_plugin.dll
+d44a08c8eaf0681d34d1045c81222aab:D:\My Work\直播测试\修改文件\plugins\codec\libaes3_plugin.dll
+75ee0eab7e9e6b0da46c32c8445445fb:D:\My Work\直播测试\修改文件\plugins\codec\libaraw_plugin.dll
+2c61b4fd673b1036c79a644b4462ceca:D:\My Work\直播测试\修改文件\plugins\codec\libavcodec_plugin.dll
+34c19aab36db305ce72a4a7211375d7d:D:\My Work\直播测试\修改文件\plugins\codec\libcc_plugin.dll
+c24906c87f4f4e1d541c597602fbe538:D:\My Work\直播测试\修改文件\plugins\codec\libcdg_plugin.dll
+e8773b1c087b793e0cf7fa5c266d6aad:D:\My Work\直播测试\修改文件\plugins\codec\libcrystalhd_plugin.dll
+117a33dbf667d755cb24561d4c1ea78b:D:\My Work\直播测试\修改文件\plugins\codec\libcvdsub_plugin.dll
+3dda2fadab7123e31eabfff7f138eb3d:D:\My Work\直播测试\修改文件\plugins\codec\libddummy_plugin.dll
+a5bb4b5c0e11de6f6e459e86c2e2e4a0:D:\My Work\直播测试\修改文件\plugins\codec\libdmo_plugin.dll
+c96aa61da681356fe9b9249603cc68b9:D:\My Work\直播测试\修改文件\plugins\codec\libdts_plugin.dll
+1e3689dfd35b6a23d19c10eb6d95f611:D:\My Work\直播测试\修改文件\plugins\codec\libdvbsub_plugin.dll
+b4dc4f3df04582a75e62df1d5f65a2ab:D:\My Work\直播测试\修改文件\plugins\codec\libdxva2_plugin.dll
+c080b3799c97e703c5458b457e6eedba:D:\My Work\直播测试\修改文件\plugins\codec\libedummy_plugin.dll
+4ed3df123e4057d6e54856caf76d20bc:D:\My Work\直播测试\修改文件\plugins\codec\libfaad_plugin.dll
+3e1bc184d63955176979cd0da03459bc:D:\My Work\直播测试\修改文件\plugins\codec\libflac_plugin.dll
+f444a541b99f7d8cc5ed0489be3e926c:D:\My Work\直播测试\修改文件\plugins\codec\libg711_plugin.dll
+623f908286a0d7e65aba526c3c5a4bf4:D:\My Work\直播测试\修改文件\plugins\codec\libjpeg_plugin.dll
+bb09962dd99fc42b560ced1be2ee5201:D:\My Work\直播测试\修改文件\plugins\codec\libkate_plugin.dll
+c12bb5db2e0b8c9b0e7216b6506a0a5e:D:\My Work\直播测试\修改文件\plugins\codec\liblibass_plugin.dll
+484587aed15006207709661779ba11db:D:\My Work\直播测试\修改文件\plugins\codec\liblibmpeg2_plugin.dll
+1bc48c498a01a27574ccb20d37b9d70b:D:\My Work\直播测试\修改文件\plugins\codec\liblpcm_plugin.dll
+6e14188ab41fb741045fd6c6730e6613:D:\My Work\直播测试\修改文件\plugins\codec\libmft_plugin.dll
+06563378bef5d2a501dd3854801d364f:D:\My Work\直播测试\修改文件\plugins\codec\libmpeg_audio_plugin.dll
+89a20cb3e67bf366a5cde7eaa38c2860:D:\My Work\直播测试\修改文件\plugins\codec\libopus_plugin.dll
+10290dda012a3d0b2880c46207f2349e:D:\My Work\直播测试\修改文件\plugins\codec\libpng_plugin.dll
+651b1e9cfd859b609c2704cec496b4b8:D:\My Work\直播测试\修改文件\plugins\codec\libqsv_plugin.dll
+01fd9031f5e1ee5f95400519bf3aa979:D:\My Work\直播测试\修改文件\plugins\codec\libquicktime_plugin.dll
+9adba5336a1b5bcb670ba83bff4c1a2b:D:\My Work\直播测试\修改文件\plugins\codec\librawvideo_plugin.dll
+3a403a5da6fd4cd413da46d6527d8ba8:D:\My Work\直播测试\修改文件\plugins\codec\libschroedinger_plugin.dll
+0f0a50c00df84fd803a35679dc7690eb:D:\My Work\直播测试\修改文件\plugins\codec\libscte27_plugin.dll
+0531aacb90a8a4b6c222fb95c41f823d:D:\My Work\直播测试\修改文件\plugins\codec\libspeex_plugin.dll
+04e910abb4c78f1043d80bf317176e8c:D:\My Work\直播测试\修改文件\plugins\codec\libspudec_plugin.dll
+fcd8b40f349bd7fbf2f43873729b0a99:D:\My Work\直播测试\修改文件\plugins\codec\libstl_plugin.dll
+71c1771700d4b27d7bd0f54d4157467b:D:\My Work\直播测试\修改文件\plugins\codec\libsubsdec_plugin.dll
+45bb2affa5b6158de5575d8303510c9e:D:\My Work\直播测试\修改文件\plugins\codec\libsubstx3g_plugin.dll
+ba6a974412c77d204513398ecb8a75ab:D:\My Work\直播测试\修改文件\plugins\codec\libsubsusf_plugin.dll
+582c94bea2a54f867153b6b68139273f:D:\My Work\直播测试\修改文件\plugins\codec\libsvcdsub_plugin.dll
+fb81e1513b7eaea86e82cc74293feb94:D:\My Work\直播测试\修改文件\plugins\codec\libt140_plugin.dll
+7e9c671bec08191eee2877097aa0cbbe:D:\My Work\直播测试\修改文件\plugins\codec\libtheora_plugin.dll
+1a492d6d5cb7bd4489afc0a7b5bdff49:D:\My Work\直播测试\修改文件\plugins\codec\libtwolame_plugin.dll
+025ff02b98929e7db01e9ba1d6d7cb86:D:\My Work\直播测试\修改文件\plugins\codec\libuleaddvaudio_plugin.dll
+f6ba0bbe1638b980137647e6e726ddd9:D:\My Work\直播测试\修改文件\plugins\codec\libvorbis_plugin.dll
+79265dc175a46c0ab8a1ec4c4d6833d9:D:\My Work\直播测试\修改文件\plugins\codec\libvpx_plugin.dll
+5b62395f3b0ae58b537a47089e1ad319:D:\My Work\直播测试\修改文件\plugins\codec\libx264_plugin.dll
+9d519a78735b90b9cd629101fb11e036:D:\My Work\直播测试\修改文件\plugins\codec\libx265_plugin.dll
+a1028ccd2d283be55ebc3efb7b6bf190:D:\My Work\直播测试\修改文件\plugins\codec\libzvbi_plugin.dll
+f5ed53fa81b9d717aa40400ac777329f:D:\My Work\直播测试\修改文件\plugins\control\libdummy_plugin.dll
+3f9494dccde8581a81424bab78a13642:D:\My Work\直播测试\修改文件\plugins\control\libgestures_plugin.dll
+330bbb6ef14f44366a1ede4a2b6c65f3:D:\My Work\直播测试\修改文件\plugins\control\libhotkeys_plugin.dll
+df6fd6c207cb76f1c4e802b2382ca34d:D:\My Work\直播测试\修改文件\plugins\control\libnetsync_plugin.dll
+9a98aec4b086484dbf343c59cf812974:D:\My Work\直播测试\修改文件\plugins\control\libntservice_plugin.dll
+ab9652afc5e8274b2c67a036a3f2ddf1:D:\My Work\直播测试\修改文件\plugins\control\liboldrc_plugin.dll
+15209641014f2c509ff75ce0756cd562:D:\My Work\直播测试\修改文件\plugins\control\libwin_hotkeys_plugin.dll
+fe0a3fbfd82f9e1d1defdf4ccf4354e1:D:\My Work\直播测试\修改文件\plugins\control\libwin_msg_plugin.dll
+e5f10c3128700bedf7237264f7cbdfc5:D:\My Work\直播测试\修改文件\plugins\demux\libaiff_plugin.dll
+99150f31f8cb12cc94114613d79d62ca:D:\My Work\直播测试\修改文件\plugins\demux\libasf_plugin.dll
+8bbbe321e7cbb0d03812f7329d8abc4f:D:\My Work\直播测试\修改文件\plugins\demux\libau_plugin.dll
+8418b627e94f7ed1f427a03f2a3a0963:D:\My Work\直播测试\修改文件\plugins\demux\libavi_plugin.dll
+ea2f6ecaec94a8d6a2ec09e9798c4c7d:D:\My Work\直播测试\修改文件\plugins\demux\libcaf_plugin.dll
+8407d7d517bce4232950c21f7f40eb0e:D:\My Work\直播测试\修改文件\plugins\demux\libdemuxdump_plugin.dll
+306b5a79097c9cea0b35a6cc7b4262c3:D:\My Work\直播测试\修改文件\plugins\demux\libdemux_cdg_plugin.dll
+547b822d8b387ef012cc3a443a17dba8:D:\My Work\直播测试\修改文件\plugins\demux\libdemux_stl_plugin.dll
+424fdb7d8a3b5cfff3459ae8a5594ebc:D:\My Work\直播测试\修改文件\plugins\demux\libdiracsys_plugin.dll
+386d5ed7583c38579e1141fc946089a6:D:\My Work\直播测试\修改文件\plugins\demux\libes_plugin.dll
+82803171e70350e1b2ccd619c41f06c5:D:\My Work\直播测试\修改文件\plugins\demux\libflacsys_plugin.dll
+0c5086b698911d1b3e04f302b5119b7f:D:\My Work\直播测试\修改文件\plugins\demux\libgme_plugin.dll
+3159a05d4eea82601a33be95e6b5828a:D:\My Work\直播测试\修改文件\plugins\demux\libh264_plugin.dll
+9dbb0e519e84e66fec7c4ff8f29e1424:D:\My Work\直播测试\修改文件\plugins\demux\libhevc_plugin.dll
+7658979f436b01b569d9d7425d4cd81a:D:\My Work\直播测试\修改文件\plugins\demux\libimage_plugin.dll
+f4f57a7f673a6cdd63ac6ed983f83f91:D:\My Work\直播测试\修改文件\plugins\demux\libmjpeg_plugin.dll
+483411cc7a5f977d1b4c4450ad167f46:D:\My Work\直播测试\修改文件\plugins\demux\libmkv_plugin.dll
+f07a30e65e658ea1b7adbe59a725c0fa:D:\My Work\直播测试\修改文件\plugins\demux\libmod_plugin.dll
+beb8ef6e1ac65d973cfa5dd3e3313bc4:D:\My Work\直播测试\修改文件\plugins\demux\libmp4_plugin.dll
+543fdf1338cbb4136d0b0b79c7054668:D:\My Work\直播测试\修改文件\plugins\demux\libmpc_plugin.dll
+72e58f7482b4a03d8721959c5b88b496:D:\My Work\直播测试\修改文件\plugins\demux\libmpgv_plugin.dll
+9dc46a5820905c9e42ac0479ab1a0a31:D:\My Work\直播测试\修改文件\plugins\demux\libnsc_plugin.dll
+112d5d63e121b883bae319df8892e681:D:\My Work\直播测试\修改文件\plugins\demux\libnsv_plugin.dll
+ade93b629e7276eb203faabc1dc69e6f:D:\My Work\直播测试\修改文件\plugins\demux\libnuv_plugin.dll
+8dcf6646403f101c3f35ece2107b6c7e:D:\My Work\直播测试\修改文件\plugins\demux\libogg_plugin.dll
+3da9865edf6bdda99c184bdafdfc6d7f:D:\My Work\直播测试\修改文件\plugins\demux\libplaylist_plugin.dll
+dc5d780b0e611d7595d29e4de9c79e20:D:\My Work\直播测试\修改文件\plugins\demux\libps_plugin.dll
+fc85c695993eae615a375bb4555bb863:D:\My Work\直播测试\修改文件\plugins\demux\libpva_plugin.dll
+7da1e2153301f757501b845f7753e839:D:\My Work\直播测试\修改文件\plugins\demux\librawaud_plugin.dll
+0968d3f1bf62334bddaf8157ceb9db5d:D:\My Work\直播测试\修改文件\plugins\demux\librawdv_plugin.dll
+008c746d9f6e6da6c0c45d3555ffde11:D:\My Work\直播测试\修改文件\plugins\demux\librawvid_plugin.dll
+5f99e90aa88262e6d6ff26d53982b4c7:D:\My Work\直播测试\修改文件\plugins\demux\libreal_plugin.dll
+ec51271a4b097c5e68fbb7b77b21085c:D:\My Work\直播测试\修改文件\plugins\demux\libsid_plugin.dll
+a468af0dc86aa990dd41c055e58dd810:D:\My Work\直播测试\修改文件\plugins\demux\libsmf_plugin.dll
+269c9ecafeb8b3244f057c363c217919:D:\My Work\直播测试\修改文件\plugins\demux\libsubtitle_plugin.dll
+50e650065be44062dd736cd7fdeddbd7:D:\My Work\直播测试\修改文件\plugins\demux\libts_plugin.dll
+53caf89ca06fe7d78fce8077293c03c8:D:\My Work\直播测试\修改文件\plugins\demux\libtta_plugin.dll
+39eb3c9909d2ca6b96bc9b7e934b7c38:D:\My Work\直播测试\修改文件\plugins\demux\libty_plugin.dll
+b68acad68c557fc1902e6b2f41640c40:D:\My Work\直播测试\修改文件\plugins\demux\libvc1_plugin.dll
+4062205ccb29bc830720ec1aa6fcc749:D:\My Work\直播测试\修改文件\plugins\demux\libvobsub_plugin.dll
+97b44574484068e14ad83582300c5685:D:\My Work\直播测试\修改文件\plugins\demux\libvoc_plugin.dll
+0cb74e891a69a031157a270b1627bf7f:D:\My Work\直播测试\修改文件\plugins\demux\libwav_plugin.dll
+5e6f66fd76934b7cda332a9c59b39223:D:\My Work\直播测试\修改文件\plugins\demux\libxa_plugin.dll
+da1873ba2693d270c987f4f5a54833ee:D:\My Work\直播测试\修改文件\plugins\gui\libqt4_plugin.dll
+39a2ba0fd49782eeca9864f94b868e17:D:\My Work\直播测试\修改文件\plugins\gui\libskins2_plugin.dll
+9d99c0ace268ed3f5fe656bc6ecbd1cd:D:\My Work\直播测试\修改文件\plugins\lua\liblua_plugin.dll
+99f53bf3fbb4d09b29076513d41855f5:D:\My Work\直播测试\修改文件\plugins\meta_engine\libfolder_plugin.dll
+baa28ef0054a236fb6d55de74fd069bc:D:\My Work\直播测试\修改文件\plugins\meta_engine\libtaglib_plugin.dll
+96e3f6a8dabdf03f06b959d9a5c382a6:D:\My Work\直播测试\修改文件\plugins\misc\libaddonsfsstorage_plugin.dll
+7f7b3804bb5eb2d3eb47501e5e3fead0:D:\My Work\直播测试\修改文件\plugins\misc\libaddonsvorepository_plugin.dll
+0ec730ff94bf85ef843013593b37a904:D:\My Work\直播测试\修改文件\plugins\misc\libaudioscrobbler_plugin.dll
+2e7b29f6a58de31859cebfb606ba43c5:D:\My Work\直播测试\修改文件\plugins\misc\libexport_plugin.dll
+af0153028caa14e9dbc37db5a0166cfb:D:\My Work\直播测试\修改文件\plugins\misc\libfingerprinter_plugin.dll
+52e86280fb53a3b576c6e5a2342a17eb:D:\My Work\直播测试\修改文件\plugins\misc\libgnutls_plugin.dll
+aef50bed2977eafe834b02db92fbd3b6:D:\My Work\直播测试\修改文件\plugins\misc\liblogger_plugin.dll
+19c0fb069f75780faee9742cfa590c8b:D:\My Work\直播测试\修改文件\plugins\misc\libstats_plugin.dll
+aa376a0d11a40c14471f0c0979d8b152:D:\My Work\直播测试\修改文件\plugins\misc\libvod_rtsp_plugin.dll
+e420450aea0d7897af8e472f998d2d28:D:\My Work\直播测试\修改文件\plugins\misc\libxml_plugin.dll
+9726d2f74ef927e8b976b7f3439a26c8:D:\My Work\直播测试\修改文件\plugins\mux\libmux_asf_plugin.dll
+1548f047b1cd55287b7ec6ba4a51db9e:D:\My Work\直播测试\修改文件\plugins\mux\libmux_avi_plugin.dll
+ee39eb775a0b6c3e851526a85c976a17:D:\My Work\直播测试\修改文件\plugins\mux\libmux_dummy_plugin.dll
+176f34687d03c7de85ce7ce20ceddb76:D:\My Work\直播测试\修改文件\plugins\mux\libmux_mp4_plugin.dll
+2e21e7e939199639c7f4e16e517cf1ff:D:\My Work\直播测试\修改文件\plugins\mux\libmux_mpjpeg_plugin.dll
+ffeb8d08b166be79a87db8991c8a312c:D:\My Work\直播测试\修改文件\plugins\mux\libmux_ogg_plugin.dll
+f964566f2b20e23c60815b127dc88503:D:\My Work\直播测试\修改文件\plugins\mux\libmux_ps_plugin.dll
+179bb55d5b6df7a3c730991c1e8cacb6:D:\My Work\直播测试\修改文件\plugins\mux\libmux_ts_plugin.dll
+8983c1be405c6110c391b31c5a13c4d9:D:\My Work\直播测试\修改文件\plugins\mux\libmux_wav_plugin.dll
+f950052227cb67640e257eb1187f1860:D:\My Work\直播测试\修改文件\plugins\packetizer\libpacketizer_copy_plugin.dll
+dcb7f32af0b10283d639398af3fcf8d2:D:\My Work\直播测试\修改文件\plugins\packetizer\libpacketizer_dirac_plugin.dll
+43efbfc3ed8533cded56a0d73122608a:D:\My Work\直播测试\修改文件\plugins\packetizer\libpacketizer_flac_plugin.dll
+253094c84de31c3d9d05cc711a2de096:D:\My Work\直播测试\修改文件\plugins\packetizer\libpacketizer_h264_plugin.dll
+e2548969a391fbbe1decdcbec81b7d05:D:\My Work\直播测试\修改文件\plugins\packetizer\libpacketizer_hevc_plugin.dll
+d561cfcce89f68ed25e0e353fbc25680:D:\My Work\直播测试\修改文件\plugins\packetizer\libpacketizer_mlp_plugin.dll
+5c8b00682cc598bcc460b4349b643ae3:D:\My Work\直播测试\修改文件\plugins\packetizer\libpacketizer_mpeg4audio_plugin.dll
+fbb03c517d92a0d809fe3a455d0df9c5:D:\My Work\直播测试\修改文件\plugins\packetizer\libpacketizer_mpeg4video_plugin.dll
+8b90891a7587690f289d14054fdf349a:D:\My Work\直播测试\修改文件\plugins\packetizer\libpacketizer_mpegvideo_plugin.dll
+a1dbc5e0fb6fc9114fe70d81183d797e:D:\My Work\直播测试\修改文件\plugins\packetizer\libpacketizer_vc1_plugin.dll
+130eba6b806a02ec155cd25d751f8345:D:\My Work\直播测试\修改文件\plugins\plugins.dat
+183bac60a11400d1d33261ae1ee78e41:D:\My Work\直播测试\修改文件\plugins\services_discovery\libmediadirs_plugin.dll
+f1d09a8727d7955eed0ab5ed1e7be504:D:\My Work\直播测试\修改文件\plugins\services_discovery\libpodcast_plugin.dll
+2a3ade761d1f6a8516e686a6c7221889:D:\My Work\直播测试\修改文件\plugins\services_discovery\libsap_plugin.dll
+d26b75e5a2989947596749c49336bb35:D:\My Work\直播测试\修改文件\plugins\services_discovery\libupnp_plugin.dll
+41d2914f0b94ccbf389550fcba4024c4:D:\My Work\直播测试\修改文件\plugins\services_discovery\libwindrive_plugin.dll
+d268cae08111609b234d49cd0d5ca2cf:D:\My Work\直播测试\修改文件\plugins\stream_filter\libdash_plugin.dll
+b006e011e5a79b6d218d06bc49db0bfe:D:\My Work\直播测试\修改文件\plugins\stream_filter\libhttplive_plugin.dll
+5085ff02929fcd26c7ffefa15a68912c:D:\My Work\直播测试\修改文件\plugins\stream_filter\librecord_plugin.dll
+a22778f8656e180110704af08eda25ad:D:\My Work\直播测试\修改文件\plugins\stream_filter\libsmooth_plugin.dll
+70aff44004eb8922757ff43569ab5799:D:\My Work\直播测试\修改文件\plugins\stream_out\libstream_out_autodel_plugin.dll
+86ecb281e8646b4ca15160419a49b0b4:D:\My Work\直播测试\修改文件\plugins\stream_out\libstream_out_bridge_plugin.dll
+220f40892b9114ba78b7850a088f5a71:D:\My Work\直播测试\修改文件\plugins\stream_out\libstream_out_chromaprint_plugin.dll
+9325b9b38c36a6517a317e30633d4655:D:\My Work\直播测试\修改文件\plugins\stream_out\libstream_out_delay_plugin.dll
+2d0941a4180f2345478bbdba4bf628b0:D:\My Work\直播测试\修改文件\plugins\stream_out\libstream_out_description_plugin.dll
+6c04b3aecd73132a383f18b65e7c3cd4:D:\My Work\直播测试\修改文件\plugins\stream_out\libstream_out_display_plugin.dll
+8150b10cd3cc09fafc7dcbfd78d92be3:D:\My Work\直播测试\修改文件\plugins\stream_out\libstream_out_dummy_plugin.dll
+296df7dd0c33781400df9f843e029157:D:\My Work\直播测试\修改文件\plugins\stream_out\libstream_out_duplicate_plugin.dll
+59000f4065454e6094966f418c660a77:D:\My Work\直播测试\修改文件\plugins\stream_out\libstream_out_es_plugin.dll
+a3258511ce28fe30201082067c7d254d:D:\My Work\直播测试\修改文件\plugins\stream_out\libstream_out_gather_plugin.dll
+9105b6beef350e395c7c589d5cec3823:D:\My Work\直播测试\修改文件\plugins\stream_out\libstream_out_langfromtelx_plugin.dll
+74259f8f6b42c33f5754f5b57c7314b5:D:\My Work\直播测试\修改文件\plugins\stream_out\libstream_out_mosaic_bridge_plugin.dll
+6da60b5febaa98a8defdf7d570ead44d:D:\My Work\直播测试\修改文件\plugins\stream_out\libstream_out_raop_plugin.dll
+d3219816b93d00cb0e65f023a90043c3:D:\My Work\直播测试\修改文件\plugins\stream_out\libstream_out_record_plugin.dll
+b2a64f95ba5ff7253b833890bb57d812:D:\My Work\直播测试\修改文件\plugins\stream_out\libstream_out_rtp_plugin.dll
+7848ee0637426d6f4a0a8a53bdb255e6:D:\My Work\直播测试\修改文件\plugins\stream_out\libstream_out_setid_plugin.dll
+de78e8c3be5c9a28a485c88aca60f9ef:D:\My Work\直播测试\修改文件\plugins\stream_out\libstream_out_smem_plugin.dll
+7360228f8d98c415a4fcf7803463781d:D:\My Work\直播测试\修改文件\plugins\stream_out\libstream_out_standard_plugin.dll
+0add8141099420d4017c5178e700fba5:D:\My Work\直播测试\修改文件\plugins\stream_out\libstream_out_stats_plugin.dll
+396412b5e2516c445ad3479a15a8f265:D:\My Work\直播测试\修改文件\plugins\stream_out\libstream_out_transcode_plugin.dll
+ad99f2abcaff566b07ca0d2c3b8cb0aa:D:\My Work\直播测试\修改文件\plugins\text_renderer\libfreetype_plugin.dll
+9512a7a222558fa105aa4ebe6c387b2e:D:\My Work\直播测试\修改文件\plugins\text_renderer\libtdummy_plugin.dll
+3682ffee2a93b7e40af2153d6f2f2251:D:\My Work\直播测试\修改文件\plugins\video_chroma\libchain_plugin.dll
+41ce039e8b236e30b47ef19c1b1a3c7d:D:\My Work\直播测试\修改文件\plugins\video_chroma\libgrey_yuv_plugin.dll
+357dc3a79b80faa504bfbeb6ceffacfe:D:\My Work\直播测试\修改文件\plugins\video_chroma\libi420_rgb_mmx_plugin.dll
+660110c5648c637c6e09acc484d92617:D:\My Work\直播测试\修改文件\plugins\video_chroma\libi420_rgb_plugin.dll
+a9dc0b49e31a7c5efe2cffb837fa1fce:D:\My Work\直播测试\修改文件\plugins\video_chroma\libi420_rgb_sse2_plugin.dll
+3e5492655ecab97ee1cd525d4f2fff34:D:\My Work\直播测试\修改文件\plugins\video_chroma\libi420_yuy2_mmx_plugin.dll
+6101f009eac52b9b33018f08f450d434:D:\My Work\直播测试\修改文件\plugins\video_chroma\libi420_yuy2_plugin.dll
+7537e3bde825bd0d711d550cd86e8785:D:\My Work\直播测试\修改文件\plugins\video_chroma\libi420_yuy2_sse2_plugin.dll
+dec8422ccbb95d7b8521f034e5cd9959:D:\My Work\直播测试\修改文件\plugins\video_chroma\libi422_i420_plugin.dll
+75cb859ede866d3497a2fc058305d131:D:\My Work\直播测试\修改文件\plugins\video_chroma\libi422_yuy2_mmx_plugin.dll
+83f23e513c2f0719927991b44e82a64a:D:\My Work\直播测试\修改文件\plugins\video_chroma\libi422_yuy2_plugin.dll
+348a2ecc72428d004dcb46cdc2477cbe:D:\My Work\直播测试\修改文件\plugins\video_chroma\libi422_yuy2_sse2_plugin.dll
+f386795ab9e427b201545d37b4c47ddf:D:\My Work\直播测试\修改文件\plugins\video_chroma\librv32_plugin.dll
+9fb762a20af9122181a72df3935dcd5a:D:\My Work\直播测试\修改文件\plugins\video_chroma\libswscale_plugin.dll
+1b42bf18592742dfe6547dc9b3153902:D:\My Work\直播测试\修改文件\plugins\video_chroma\libyuy2_i420_plugin.dll
+427d9f32a00651fa33c4a45bfbbeac5a:D:\My Work\直播测试\修改文件\plugins\video_chroma\libyuy2_i422_plugin.dll
+9327b5db1d861f4fc48c1de85b065983:D:\My Work\直播测试\修改文件\plugins\video_filter\libadjust_plugin.dll
+0302559eb31d57ed13b6fcf91a6767c4:D:\My Work\直播测试\修改文件\plugins\video_filter\libalphamask_plugin.dll
+d6c5b95b8329ca95ce4c9bae598551ee:D:\My Work\直播测试\修改文件\plugins\video_filter\libanaglyph_plugin.dll
+7e7d26dc8e327bdfecba41f60a50506a:D:\My Work\直播测试\修改文件\plugins\video_filter\libantiflicker_plugin.dll
+5f251ee50f7330f0b9fd3b33e8304260:D:\My Work\直播测试\修改文件\plugins\video_filter\libatmo_plugin.dll
+bad9008136b37a033f33027b4071aeee:D:\My Work\直播测试\修改文件\plugins\video_filter\libaudiobargraph_v_plugin.dll
+555c05a64399ca3d681c1d2577ff6c80:D:\My Work\直播测试\修改文件\plugins\video_filter\libball_plugin.dll
+142bfd9f0fb2a8845d373897fb5e0f07:D:\My Work\直播测试\修改文件\plugins\video_filter\libblendbench_plugin.dll
+6684e23b5e60b5e8d24943e5f9601b08:D:\My Work\直播测试\修改文件\plugins\video_filter\libblend_plugin.dll
+355ab0157607903fe42e07522eceed51:D:\My Work\直播测试\修改文件\plugins\video_filter\libbluescreen_plugin.dll
+63349685423cafb38789f4adfd4e07e8:D:\My Work\直播测试\修改文件\plugins\video_filter\libcanvas_plugin.dll
+8e4e895b53a427e0f59abcceec1c4481:D:\My Work\直播测试\修改文件\plugins\video_filter\libcolorthres_plugin.dll
+f4392cf5aac9cd6bcc87684ec527d0fa:D:\My Work\直播测试\修改文件\plugins\video_filter\libcroppadd_plugin.dll
+308aa09aa2ccb6238fd347bd10e89634:D:\My Work\直播测试\修改文件\plugins\video_filter\libdeinterlace_plugin.dll
+9fac6053c4bb0cfdd5796bc20a16ec52:D:\My Work\直播测试\修改文件\plugins\video_filter\liberase_plugin.dll
+01cab6a32b08052fa96462c29a3f3076:D:\My Work\直播测试\修改文件\plugins\video_filter\libextract_plugin.dll
+06801dcf7abd87fbafceb2a18949a43d:D:\My Work\直播测试\修改文件\plugins\video_filter\libfreeze_plugin.dll
+d6b049a766c574cc79cc507fe68d4f24:D:\My Work\直播测试\修改文件\plugins\video_filter\libgaussianblur_plugin.dll
+f7f23f392b92b25b233ac7f919dfc64e:D:\My Work\直播测试\修改文件\plugins\video_filter\libgradfun_plugin.dll
+bd15dd4cdedddaeb170c8220948abb06:D:\My Work\直播测试\修改文件\plugins\video_filter\libgradient_plugin.dll
+2175d44336bece6861a80e8f1143995a:D:\My Work\直播测试\修改文件\plugins\video_filter\libgrain_plugin.dll
+27bbe9df861df85eb346958eac21e765:D:\My Work\直播测试\修改文件\plugins\video_filter\libhqdn3d_plugin.dll
+134e0a5bf2b720ddafaeef1ce0ef5950:D:\My Work\直播测试\修改文件\plugins\video_filter\libinvert_plugin.dll
+5214acdf91882f4b7ab2efd00b48b7f1:D:\My Work\直播测试\修改文件\plugins\video_filter\liblogo_plugin.dll
+8bd6e42e25c6b5ee7279473ef5115e4f:D:\My Work\直播测试\修改文件\plugins\video_filter\libmagnify_plugin.dll
+9565c2ecbcabd29b075c2cda0b15a8c2:D:\My Work\直播测试\修改文件\plugins\video_filter\libmarq_plugin.dll
+26f28beb0aa1b7846d9792aa53c4ae7e:D:\My Work\直播测试\修改文件\plugins\video_filter\libmirror_plugin.dll
+f9e0d43b555344b9c4bb0bab9b6612ea:D:\My Work\直播测试\修改文件\plugins\video_filter\libmosaic_plugin.dll
+af3046f7f56b24c9af5f887f935ad7f1:D:\My Work\直播测试\修改文件\plugins\video_filter\libmotionblur_plugin.dll
+fc9718cc1e7738f669deb80366a8c146:D:\My Work\直播测试\修改文件\plugins\video_filter\libmotiondetect_plugin.dll
+ce2620fa181ff02c3dfd65366f7c81db:D:\My Work\直播测试\修改文件\plugins\video_filter\liboldmovie_plugin.dll
+ef1d34fdb7210770822d0a86f7c18385:D:\My Work\直播测试\修改文件\plugins\video_filter\libposterize_plugin.dll
+60a7775e2c33558366cb18bf8f4b6a4d:D:\My Work\直播测试\修改文件\plugins\video_filter\libpostproc_plugin.dll
+99ea4a04adaf96bca641f71731164bb1:D:\My Work\直播测试\修改文件\plugins\video_filter\libpsychedelic_plugin.dll
+65a0908853739289f8d1b04d9c7ff089:D:\My Work\直播测试\修改文件\plugins\video_filter\libpuzzle_plugin.dll
+981ce874f64db8624f4f43209c77a460:D:\My Work\直播测试\修改文件\plugins\video_filter\libremoteosd_plugin.dll
+e260c5b919c6b83fbd3952f0e3ec7ed2:D:\My Work\直播测试\修改文件\plugins\video_filter\libripple_plugin.dll
+122a48071710ce16be0af20910645a41:D:\My Work\直播测试\修改文件\plugins\video_filter\librotate_plugin.dll
+cbab1c3fd18ff196bfcacfca046e0c45:D:\My Work\直播测试\修改文件\plugins\video_filter\librss_plugin.dll
+9b13236abfec628901f0cfaa7fe8289b:D:\My Work\直播测试\修改文件\plugins\video_filter\libscale_plugin.dll
+468d089ef0c10381d79fac1176a7f121:D:\My Work\直播测试\修改文件\plugins\video_filter\libscene_plugin.dll
+f0531a7a76ea4e37376aa459c4831cdc:D:\My Work\直播测试\修改文件\plugins\video_filter\libsepia_plugin.dll
+67c0836dfdf37ceb9d678c5b37e64225:D:\My Work\直播测试\修改文件\plugins\video_filter\libsharpen_plugin.dll
+9e1e2f8e7bb975de568f97972762be8c:D:\My Work\直播测试\修改文件\plugins\video_filter\libsubsdelay_plugin.dll
+bdc17c30c71df79b5f7bdb68515f2315:D:\My Work\直播测试\修改文件\plugins\video_filter\libtransform_plugin.dll
+a571b50595ff6df7674328dc161d3a6f:D:\My Work\直播测试\修改文件\plugins\video_filter\libvhs_plugin.dll
+82baf8df06f758dd31b3331bfb0ba0b9:D:\My Work\直播测试\修改文件\plugins\video_filter\libwave_plugin.dll
+7be6ef4bbc920a224da40f0532c17d03:D:\My Work\直播测试\修改文件\plugins\video_filter\libyuvp_plugin.dll
+aa4ff0d9be40854f1d2c5f7619751b6e:D:\My Work\直播测试\修改文件\plugins\video_output\libcaca_plugin.dll
+576e82dcda9d92c02b326204beda8dbb:D:\My Work\直播测试\修改文件\plugins\video_output\libdirect2d_plugin.dll
+b89c5896d64a63842f8e799fa1b1a472:D:\My Work\直播测试\修改文件\plugins\video_output\libdirect3d_plugin.dll
+632949de170f7f817b95167be19eb8d8:D:\My Work\直播测试\修改文件\plugins\video_output\libdirectdraw_plugin.dll
+d0b4525a99b70c151cb8b5af49078500:D:\My Work\直播测试\修改文件\plugins\video_output\libdrawable_plugin.dll
+8ac2d70165c546460b05da6a25baf220:D:\My Work\直播测试\修改文件\plugins\video_output\libglwin32_plugin.dll
+c79628cebc342e44114b7bced3f40765:D:\My Work\直播测试\修改文件\plugins\video_output\libgl_plugin.dll
+0f1ed32d8a012b0d8f6d2032691bb0b8:D:\My Work\直播测试\修改文件\plugins\video_output\libvdummy_plugin.dll
+cfd7b40417e6016090f3cfe6956f9866:D:\My Work\直播测试\修改文件\plugins\video_output\libvmem_plugin.dll
+d3914b8700de65af3f583788cb40215e:D:\My Work\直播测试\修改文件\plugins\video_output\libwingdi_plugin.dll
+4fd50774eaea4b993199f885dd8cbacd:D:\My Work\直播测试\修改文件\plugins\video_output\libyuv_plugin.dll
+4e32fdb4405069b67b0cc664a7bcb50a:D:\My Work\直播测试\修改文件\plugins\video_splitter\libclone_plugin.dll
+6dca1845fe4dcdd22d139aeccc9daf70:D:\My Work\直播测试\修改文件\plugins\video_splitter\libpanoramix_plugin.dll
+20c6352a7988a91dcabbdb214550213d:D:\My Work\直播测试\修改文件\plugins\video_splitter\libwall_plugin.dll
+4e906173e20f07749dc2c919275d5458:D:\My Work\直播测试\修改文件\plugins\visualization\libglspectrum_plugin.dll
+edd8cdf28a85a43f6b1dfc01d925f262:D:\My Work\直播测试\修改文件\plugins\visualization\libgoom_plugin.dll
+239f038369ce10ea4602d0a75b4523d9:D:\My Work\直播测试\修改文件\plugins\visualization\libprojectm_plugin.dll
+e384602f5ee502cd683dd4813def6998:D:\My Work\直播测试\修改文件\plugins\visualization\libvisual_plugin.dll
+3bd5fbd15bcfa9cd3c0061becb6c4249:D:\My Work\直播测试\修改文件\plugins.rar
+16dc5cb389eb8a3b79ab2bf24ef0260c:D:\My Work\直播测试\直播客户端目录结构说明.txt
+9e2ef4c89bbe375772bf955abec373b1:D:\My Work\直播测试\直播服务器FAQ.txt
+3d068567b68a6e94a9f5891255ba73ac:D:\My Work\直播测试\直播测试buglist2016.1.5.xlsx
+4bd262df36a712df902fb70d4efd0d9a:D:\My Work\直播测试\直播设置说明.txt
+1cf262f35322d6c9c7a27fca513fc269:D:\My Work\直播测试\直播需要的插件\dotNetFx40_Client_x86_x64.exe
+bcbb7c0cd9696068988953990ec5bd11:D:\My Work\直播测试\直播需要的插件\dxwebsetup.exe
+677e0c0e7ab8f78a090bb2270b7d30d9:D:\My Work\直播测试\直播需要的插件\vcredist_x86.exe
+fc7e1739683fdc45c5189992a1453b54:D:\My Work\直播测试\网动直播客户端使用手册1013.doc

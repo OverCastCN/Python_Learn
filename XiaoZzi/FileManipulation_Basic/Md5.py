@@ -7,14 +7,17 @@ def fun(path):
             d_files = os.path.join(path,d_files)
             if os.path.isfile(d_files):
                 if os.path.splitext(d_files)[1] != '.md5':
+                    m = open(d_files,'rb')
                     m1 = hashlib.md5()
-                    m1.update(d_files.encode('utf-8'))
+                    m1.update(m.read())
+                    h = m1.hexdigest()
                     f = open('md5.txt','a')
-                    f.write(str(m1) + ':' + d_files.encode('utf-8'))
+                    f.write(str(h) + ':' + d_files.encode('utf-8'))
                     f.write('\n')
                     f.close()
+                    m.close()
             else:
                 fun(d_files)
 
-path = unicode('D:\\My Work\\直播测试','utf-8')
+path = u'D:\\My Work\\直播测试'
 fun(path)
