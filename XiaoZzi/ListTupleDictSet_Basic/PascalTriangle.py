@@ -5,17 +5,24 @@
 def triangles():
     L = [1]
     while True:
-        # yield L
+        yield L
         L.append(0)
-        # L = [L[i - 1] + L[i] for i in range(len(L))]
-        for i in range(len(L)):
-            L = [L[i -1] + L[i]]
-        print L
+        L = [L[i - 1] + L[i] for i in range(len(L))]
 
-n=0
+n = 0
 for t in triangles():
-    for j in t:
-        print j,
+    print t
     n = n + 1
     if n == 6:
         break
+
+
+# l = [1]
+# # l = [l[i - 1] + l[i] for i in range(len(l))]
+# for y in range(5):
+#     l.append(0)
+#     j = []
+#     for i in range(len(l)):
+#         j.append(l[i - 1] + l[i])
+#     print j
+

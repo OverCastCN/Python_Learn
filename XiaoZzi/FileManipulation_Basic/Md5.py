@@ -1,4 +1,7 @@
 # coding:utf-8
+"""
+遍历目录及其子目录，得到所有文件的md5的值，并输出到txt
+"""
 import hashlib
 import os
 
