@@ -5,6 +5,12 @@
 import hashlib
 import os
 
+
+"""
+方法一使用递归
+"""
+
+
 def fun(path):
         for d_files in os.listdir(path):
             d_files = os.path.join(path,d_files)
@@ -22,5 +28,26 @@ def fun(path):
             else:
                 fun(d_files)
 
-path = u'F:\\My Study\\性能测试Loadrunner'
-fun(path)
+
+"""
+方法二，使用os.walk(),不需要递归
+"""
+
+
+def oswalk(path):
+    for root, dirs, files in os.walk(path):
+        for file in files:
+            file = os.path.join(root,file)
+            m = open(file, 'rb')
+            m1 = hashlib.md5()
+            m1.update(m.read())
+            h = m1.hexdigest()
+            f = open('md5.txt', 'a')
+            f.write(str(h) + ':' + file.encode('utf-8'))
+            f.write('\n')
+            f.close()
+            m.close()
+
+path = u'D:\\My Work\\直播测试'
+# fun(path)
+oswalk(path)
