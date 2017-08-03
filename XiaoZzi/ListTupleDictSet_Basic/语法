@@ -50,13 +50,19 @@ dict特点：
 4.存储的key-value序对是没有顺序的，和list不一样，不同机器打印的顺序都可能不同，不能用dict存储有序的集合
 5.dict的第三个特点是作为 key 的元素必须不可变，Python的基本类型如字符串、整数、浮点数都是不可变的，
   都可以作为 key。但是list是可变的，就不能作为 key。
-更新dict:
+dicr.items()：全部的键-值对
+dict.keys()：全部的键
+dict.values():全部的值
+插入数据:
 d[key] = 72
 删除：
 要删除一个key，用pop(key)方法，对应的value也会从dict中删除
+清空：
+要清空一个字典，用clear()
 循环遍历：
 for key,v in d.items():
     print key,':',v
+
 
 set([])
 set 持有一系列元素,无序的，不可重复的
@@ -65,6 +71,7 @@ set 持有一系列元素,无序的，不可重复的
 set(['A', 'C', 'B'])
 添加：s.add(),如果已经存在，add()不会报错，但是不会加进去
 删除：s.remove（）,如果不存在会报错
+运算符：-差集  &交集  |并集  ！=不等于  ==等于  in成员  for key in set枚举
 
 关于list的zip()函数
 zip()函数可以将两个list转变为一个list
