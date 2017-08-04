@@ -1,0 +1,141 @@
+一、文件概念：
+Python：文件是对象
+Linux:一切设备都可以看成文件，例如磁盘文件、管道、网络Socket，外设等
+文件属性：用户，读，写，执行
+
+二、文件打开方式
+方法：open(name[,mode[buf]])
+name:文件路径
+mode:打开方式，默认只读'r'
+    1.'r'只读方式打开，文件必须存在
+    2.'w'只写方式打开，文件不存在创建文件，文件存在则覆盖整个文件
+    3.'a'追加方式打开，文件不存在创建文件，文件存在则向文件追加内容
+    4.'r+'可读可写 不会创建不存在的文件 如果直接写文件，则从顶部开始写，覆盖之前此位置的内容，
+       如果先读后写，则会在文件最后追加内容----追加什么，会报错啊IOError: [Errno 0] Error
+    5.'w+'可读可写 如果文件存在 则覆盖整个文件不存在则创建----好像读不到啊！
+    6.'a+'追加和读写方式打开， 可读可写 从文件顶部读取内容 从文件底部添加内容 不存在则创建
+       ----读写一起进行也是会报错滴！！！
+       【注意】前面讲的默认都是读取文本文件，并且是ASCII编码的文本文件。要读取二进制文件，比如图片、视频等等，用'rb'模式打开文件即可：
+       ‘rb’ ‘wb’ ‘ab’ ‘rb+’ ‘wb+’ ‘ab+’ ：二进制方式打开
+       【注意】要读取非ASCII编码的文本文件，就必须以二进制模式打开，再解码。比如GBK编码的文件：
+        >>> f = open('/Users/michael/gbk.txt', 'rb')
+        >>> u = f.read().decode('gbk')
+        如果每次都这么手动转换编码嫌麻烦（写程序怕麻烦是好事，不怕麻烦就会写出又长又难懂又没法维护的代码），
+        Python还提供了一个codecs模块帮我们在读文件时自动转换编码，直接读出unicode：
+        import codecs
+        with codecs.open('/Users/michael/gbk.txt', 'r', 'gbk') as f:
+            f.read() # u'\u6d4b\u8bd5'
+
+    注意：
+    r+为可读写两种操作    w+为可读写两种操作（会首先自动清空文件内容）     a+为追加读写两种操作
+【注意以上三种操作方式均不可同时进行读写操作（仅测验windows情况下）】
+ 如以r+为例子：
+（1）读  然后 写  错误
+（2）写  然后 读  乱码存入（此处乱码指需要编码的代码）
+（3）写  然后 写入硬盘 然后读  从顶部开始写 会覆盖之前此位置的内容
+buf：缓冲buffering的大小
+【注意】
+在读写交替过程中必须要有fflush, fseek, fsetpos, rewind这类操作，不然python就不知道当前文件位置在哪啦。
+最笨的办法就是在关闭文件前只做读或者写一种操作，省心
+【注意】由于文件读写时都有可能产生IOError，一旦出错，后面的f.close()就不会调用。
+所以，为了保证无论是否出错都能正确地关闭文件，我们可以使用try ... finally来实现：
+try:
+    f = open('/path/to/file', 'r')
+    print f.read()
+finally:
+    if f:
+        f.close()
+但是每次都这么写实在太繁琐，所以，Python引入了with语句来自动帮我们调用close()方法：
+with open('/path/to/file', 'r') as f:
+    print f.read()
+
+三、文件读写操作
+文件读取方式：
+    1.read([size]):读取文件，读取size个字节，默认读取全部
+    2.readline([siza]):读取一行
+    3.readlines([size]):读取缓冲buffer左右个字节而不是全部文件内容，返回每一行所组成的列表，读大文件很占内存
+    4.iter:使用迭代器在不使用大量内存的情况下遍历整个文件,
+【注意】readlines的size和read以及readline的size不一样，它关系到python中定义的sizeint,而不是字节
+ 需要引入io模块，使用io.DEFAULT_BUFFER_SIZE查看所占字节,它占8192个字节
+【注意】参数在1~DEFAULT_BUFFER_SIZE（2^13=8192）返回的结果是一样的，都是返回一个DEFAULT_BUFFER_SIZE左右大小；
+但是8193就不一样了，他在DEFAULT_BUFFER_SIZE~2*DEFAULT_BUFFER_SIZE之间，返回2个DEFAULT_BUFFER_SIZE左右大小；
+
+文件写入方式：
+    1.write(str):将字符串写入文件
+    2.writelines(sequence_of_strings):写多行到文件，sequence_of_strings为可迭代strings
+【注意】Linux写缓存时机：
+1.主动调用close()或者flush()方法，写缓存同步到磁盘
+2.写入数据量大于或者等于写缓存，写缓存同步到磁盘
+
+四、python文件为什么要关闭
+1.将写缓存同步到磁盘
+2.linux系统中每个进程打开文件的个数是有限的
+3.如果打开文件数到了系统限制，再打开文件就会失败
+fileno,当前打开文件的个数
+
+五、文件指针
+tell()  判断当前指针所在位置
+python文件指针操作：
+seek(offset[,whence]):移动文件指针
+    offset:偏移量，可以为负数
+    whence:偏移相对位置
+python文件指针定位方式：
+os.SEEK_SET:相对文件起始位置 0
+os.SEEK_CUR:相对文件当前位置 1
+os.SEEK_END:相对文件结尾位置 2
+f.seek(0,os.SEEK_SET),移动指针到开头
+f.seek(0,os.SEEK_END),移动指针到结尾
+f.seek(-5,os.SEEK_CUR),相对当前指针的index，(index-5,index]
+
+
+六、文件对象属性
+文件对象属性：
+file.fileno():文件描述符
+file.mode：文件打开权限
+file.encoding:文件编码格式
+file/closed:文件是否关闭
+
+标准文件
+文件标准输入：sys.stdin   文件描述符0
+文件标准输出：sys.stdout  文件描述符0
+文件标准错误：sys.stderr  文件描述符0
+
+文件命令行参数
+另外，sys模块提供sys.argv属性，通过该属性可以得到命令行参数(字符串组成的列表)
+
+文件编码格式
+如何创建一个utf-8或者其他编码格式的文件
+使用codecs模块提供方法创建指定编码格式文件
+open(fname,mode,encoding,errors,buffering)
+f3 = codecs.open('PracticeFile','w','utf-8')
+
+七、OS模块文件操作
+使用os模块打开文件：os.open(filename,flag[,model])
+flag:打开文件方式
+os.O_CREAT:创建文件
+os.O_RDONLY:只读方式打开
+os.O_WRONLY:只写方式打开
+os.O_RDWR:读写方式打开
+
+使用OS模块对文件进行操作：
+os.read(fd,buffersize)/;读取文件
+os.write(fd,string)：写入文件
+os.lseek(fd,pos,how)：文件指针操作
+os.close(fd)：关闭文件
+
+os模块方法介绍
+access(path,mode):判断该文件权限：F_OK存在 R_OK可读 W_OK可写 X_OK可执行
+listdir(path)：返回当前目录下所有文件组成的列表
+remove(path)：删除文件
+rename(old,new)：修改文件或者目录名
+mkdir(path[,mode])：创建目录
+makedirs(path[,model])：创建多级目录
+removedirs(path)：删除多级目录
+rmdir(path)：删除目录（目录必须空目录）
+os.path方法：
+exists(path)：当前路径是否存在
+isdir(s)：是否是一个目录
+isfile(path)：是否是一个文件
+getsize(filename)：返回文件大小
+dirname(p)：返回路径的目录
+basename(p)：返回路径的文件名

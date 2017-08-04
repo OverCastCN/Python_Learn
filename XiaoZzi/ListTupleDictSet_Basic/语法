@@ -1,10 +1,25 @@
-list[]
+列表：list[]
+列表时一种内建（built-in）数据结构（data structure）,用来存储一系列元素（items）
 append() 总是把新的元素添加到list的尾部
 insert() 接收两个参数，第一个参数是索引号，第二个参数是待添加的新元素
-pop() 默认删除最后一个元素，也可以接收一个参数，索引号
-修改：直接根据所以赋值
+pop() 默认删除最后一个元素，也可以接收一个参数(索引)
+remove() 删除元素，接收一个参数（内容）
+sort() 排序 改变列表本身
+sorted() 排序 不改变列表本身
+reverse() 逆序
+extend(['def','hhh])  在列表后面追加一个列表
+index[] 接收一个一个参数（内容），若在列表中则返回第一个下标，若不在会抛出异常
+修改：直接根据索引赋值
+【注意】
+列表赋值：b = a,变量b也指向a的地址；b = a[:],重新生成和a一样的列表，将列表的地址赋给b
+a = [1,2,3,4]
+b = a
+b[1] = 100
+print a[1]
 
-tuple()
+更多文档：http://docs.python.org/2/tutorial/datastructures.html#more-on-lists
+
+元组：tuple()
 没有append，insert pop，也不能修改，不可改变
 t = (1,)  创建一个只有一个元素的tuple
 t = (1) 创建一个tuple，里面有1这个元素
@@ -13,8 +28,19 @@ t = ('a', 'b', ['A', 'B'])  tuple一开始指向的list并没有改成别的list
                             tuple的每个元素，指向永远不变。即指向'a'，就不能改成指向'b'，指向一个list，
                             就不能改成指向其他对象，但指向的这个list本身是可变的
 t = ('a', 'b', ('A', 'B'))  t[2][0]不可改变，t不可改变
+元祖赋值：
+temp = a
+a = b
+b = temp
+以上等同于: a, b = b, a
+如切分一个邮件地址：name, domain = 'car@hit.edu.com'.split('@')
+函数和元祖：
+函数只有一个返回值，但是该值可以是一组值，如返回一个元祖，如：return a,b
+DSU模式：
+Decorate，Sort and
 
-dict{}
+
+字典：dict{}
 dict{key:value,key:value}    可以简单通过d[key]的形式来查找对应的value
 判断key是否存在，用in操作符，或者dict本身提供的get方法，在key存在时返回value，不存在时返回None
 dict特点：
@@ -24,13 +50,19 @@ dict特点：
 4.存储的key-value序对是没有顺序的，和list不一样，不同机器打印的顺序都可能不同，不能用dict存储有序的集合
 5.dict的第三个特点是作为 key 的元素必须不可变，Python的基本类型如字符串、整数、浮点数都是不可变的，
   都可以作为 key。但是list是可变的，就不能作为 key。
-更新dict:
+dicr.items()：全部的键-值对
+dict.keys()：全部的键
+dict.values():全部的值
+插入数据:
 d[key] = 72
 删除：
 要删除一个key，用pop(key)方法，对应的value也会从dict中删除
+清空：
+要清空一个字典，用clear()
 循环遍历：
 for key,v in d.items():
     print key,':',v
+
 
 set([])
 set 持有一系列元素,无序的，不可重复的
@@ -39,6 +71,7 @@ set 持有一系列元素,无序的，不可重复的
 set(['A', 'C', 'B'])
 添加：s.add(),如果已经存在，add()不会报错，但是不会加进去
 删除：s.remove（）,如果不存在会报错
+运算符：-差集  &交集  |并集  ！=不等于  ==等于  in成员  for key in set枚举
 
 关于list的zip()函数
 zip()函数可以将两个list转变为一个list
