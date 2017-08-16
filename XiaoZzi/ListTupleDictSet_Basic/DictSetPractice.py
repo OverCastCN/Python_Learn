@@ -89,3 +89,8 @@ sent = raw_input('Input a sentence:')
 words = fmm_word_seg(sent,max_len,word_dict)
 for word in words:
     print word
+
+# a = {{1, 2}, {3, 4}}
+a = {[1, 2], [3, 4]}
+# a = (1,2,3)
+print a

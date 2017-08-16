@@ -53,6 +53,8 @@ dict特点：
 dicr.items()：全部的键-值对
 dict.keys()：全部的键
 dict.values():全部的值
+dict.clear():清空字典
+key in dict 时间复杂度为O(1),等价于dict.has_key(key)
 插入数据:
 d[key] = 72
 删除：
