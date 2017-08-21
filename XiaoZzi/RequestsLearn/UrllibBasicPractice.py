@@ -6,6 +6,7 @@ import urllib2
 URL_IP = 'http://baidu.com'
 URL_GET = 'https://www.baidu.com/s'#?ie=utf-8&f=8&rsv_bp=1&ch=&tn=baiduerr&bar=&wd=mukewan'
 
+
 #不带参数的链接
 def use_simple_urllib2():
     responce = urllib2.urlopen(URL_IP)
@@ -13,6 +14,7 @@ def use_simple_urllib2():
     print responce.info()  #get headers
     print 'Body:'
     print ''.join([line for line in responce.readlines()])
+
 
 #带参数的链接
 def use_params_urllib2():
