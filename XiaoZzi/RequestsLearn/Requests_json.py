@@ -2,7 +2,7 @@
 import json
 import requests
 
-URL = r'https://api.github.com'
+URL = 'https://api.github.com'
 
 
 def build_uri(endpoint):
