@@ -31,7 +31,7 @@ requests.post(url,data={'key1':'value1','key2':'value2'})
 第三种：json参数提交：
 Content-Type:application/x-www-form-urlencoded
 内容：key1=value1&key2=value2
-requests.post(url,data={'key1':'value1','key2':'value2'})
+requests.post(url,json={'key1':'value1','key2':'value2'})
 """
 
 URL = 'https://api.github.com'

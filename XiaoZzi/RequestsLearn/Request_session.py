@@ -4,6 +4,7 @@ import requests
 from requests import Request,Session
 
 """
+自定义requests
 在session中规定了一些代理，时间，认证等信息
 在prepared Request准备好的请求中定义了消息的body,headers,auth等
 最后将这个prepared Request发出，得到response，response中含有text,json等信息
